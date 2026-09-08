@@ -104,16 +104,16 @@ Use this interactive checklist when placing your initial order:
 - [x] **Bambu TPU 95A HF (1 spool):** Gray
 
 ### From Amazon / Local Hardware Store
-- [ ] Digital Calipers (Stainless steel, reads mm to 0.01mm)
-- [ ] 10-Pack of 608-2RS Ball Bearings (~$6–$8, for 3D printing a zero-friction external spool roller for TPU)
-- [ ] Active Heated Filament Dryer Box (Sunlu S2, Sovol SH01, or Creality Space Pi; recommended for 12–20hr TPU shoe prints)
-- [ ] 99% Isopropyl Alcohol (1 quart / 1 liter)
-- [ ] Microfiber cleaning cloths (lint-free)
-- [ ] Deburring tool with swivel blade (for trimming brim edges)
-- [ ] Pack of 6mm x 2mm Neodymium disc magnets (for Gridfinity)
-- [ ] Filament vacuum storage bags with hand pump
-- [ ] Color-indicating reusable silica gel desiccant beads
-- [ ] Dawn Dish Soap (original blue formula for deep plate degreasing)
+- [ ] **Digital Calipers** (Stainless steel, reads mm to 0.01mm — essential for sizing & keycap stems)
+- [x] **Active Heated Filament Dryer Box** (Creality Space Pi SE — ordered for TPU & PETG ✅)
+- [x] **99% Isopropyl Alcohol (IPA)** (Already on hand ✅)
+- [x] **Microfiber cleaning cloths** (Already on hand ✅)
+- [x] **Deburring tool with swivel blade** (Already on hand ✅)
+- [x] **Dawn Dish Soap** (Already on hand for plate degreasing ✅)
+- *Skipped / Redundant:*
+  - ~~10-Pack 608 Bearings~~ (Not needed — the Creality Space Pi dryer has built-in smooth ball-bearing rollers)
+  - ~~6mm x 2mm Magnets~~ (Skipped — Gridfinity bins fit snugly by gravity into baseplate grids)
+  - ~~Vacuum bags & desiccant~~ (Can be added later as filament collection grows)
 
 ---
 
