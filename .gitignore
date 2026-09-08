@@ -58,3 +58,7 @@ Desktop.ini
 *.swp
 *.swo
 .vscode/
+
+# Documents & Large Binaries
+*.pdf
+
