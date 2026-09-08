@@ -1,3 +1,19 @@
+---
+title: "Bambu X2D 3D Printing Vault & Engineering Knowledge Base"
+date: 2026-09-07
+tags:
+  - 3d-printing
+  - bambu-x2d
+  - multiboard
+  - gridfinity
+  - cleats
+  - hub
+status: evergreen
+aliases:
+  - "3D Printing Hub"
+  - "Bambu X2D Hub"
+---
+
 # 🖨️ Bambu X2D 3D Printing Vault & Engineering Knowledge Base
 
 [![Obsidian](https://img.shields.io/badge/Obsidian-Vault-purple.svg)](https://obsidian.md)
