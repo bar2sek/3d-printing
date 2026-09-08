@@ -23,10 +23,10 @@ kanban
     [Rear Poop Chute Waste Bin]
     [PTFE Tube Guide & Strain Relief]
     [Desk Drawer Gridfinity Grid 4x5]
-    [Multiboard 2x2 Headphone Tile]
+    [openGrid 2x2 Wall Island Tile]
   Ready to Slice
     [Gridfinity Caliper Tray]
-    [Underware on Multiboard Raceways]
+    [Underware for openGrid Raceways]
     [Parametric Croc Clogs]
     [ZSA Voyager Choc Keycaps]
     [Milwaukee M18/M12 Cleat Racks]
@@ -58,7 +58,7 @@ Print these before anything else to upgrade your printer workflow and protect yo
 ---
 
 ### 🖥️ Tier 1: Phase 1 Workspace Organization (Desk & Cables)
-See [[03 - Phase 1 - Desk Organization (Gridfinity & Multiboard)]] for system details:
+See [[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)]] for system details:
 
 #### Gridfinity (Drawers & Desktop)
 - [ ] **Test 1x1 Bin (42x42mm)** — Verify magnet press-fit and perimeter tolerances.
@@ -67,20 +67,20 @@ See [[03 - Phase 1 - Desk Organization (Gridfinity & Multiboard)]] for system de
 - [ ] **Pen & Sharpie Organizer Bin (1x2)**.
 - [ ] **USB Drive / SD Card Storage Bin**.
 
-#### Multiboard French Cleat Islands (Office Focal Zones)
-*Architecture:* [[03 - Phase 1 - Desk Organization (Gridfinity & Multiboard)#Level 2 Multiboard Islands for French Cleats|Multiboard Islands Guide]]
-- [ ] **Dual-Cleat Multiboard Backer Brackets** (2x brackets spanning 6.5" across two cleats, PETG).
-- [ ] **3/4" Bottom Plumb Standoff Spacers** (Keeps single-cleat mini islands vertical).
+#### openGrid French Cleat Islands (Office Focal Zones)
+*Architecture:* [[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)#Level 2 openGrid Islands for French Cleats|openGrid Islands Guide]]
+- [ ] **Dual-Cleat openGrid Backer Brackets** (2x brackets spanning 6-units / 168mm across two cleats, PETG).
+- [ ] **3/4" Bottom Plumb Standoff Spacers** (Snaps into openGrid corners for single-cleat mini islands).
 - [ ] **Anti-Lift Thumbscrew Cam-Locks** (Locks island when pulling upward on cords/headphones).
-- [ ] **2x2 Core Multiboard Tile Cluster** (PETG, 3 walls).
-- [ ] **Headphone Hanger Arm & Caliper Cradle**.
-- [ ] **Multiboard Cable Drop Clips**.
+- [ ] **openGrid Core Tile Cluster** (PETG, 3 walls, 20% Gyroid).
+- [ ] **Multiconnect Headphone Hanger Arm & Caliper Cradle**.
+- [ ] **openGrid Cable Drop Clips**.
 
-#### Underware on Multiboard (Under-Desk Cable & Gear Routing)
-*Architecture:* [[03 - Phase 1 - Desk Organization (Gridfinity & Multiboard)#Level 3 Underware on Multiboard Under-Desk Cable Management|Underware on Multiboard Guide]]
-- [ ] **Under-Desk Multiboard Substrate Tiles** (2–4x 8x8 Core Tiles, PETG, mounted with #8x1/2" pan-head wood screws).
-- [ ] **Underware Snap-in Cable Raceways & J-Hooks** (PETG, snaps directly into inverted Multiboard holes).
-- [ ] **Multiboard Clamping Power Brick Cradles** (Custom-fit dual-arm clamps for laptop chargers).
+#### Underware for openGrid (Under-Desk Cable & Gear Routing)
+*Architecture:* [[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)#Level 3 Underware for openGrid Under-Desk Cable Management|Underware for openGrid Guide]]
+- [ ] **Under-Desk openGrid Substrate Tiles** (2–4x Core Tiles, PETG, mounted with #8x1/2" pan-head wood screws).
+- [ ] **Underware for openGrid Snap-in Cable Raceways & J-Hooks** (PETG, clips into 28mm openGrid holes).
+- [ ] **openGrid Clamping Power Brick Cradles** (Custom-fit dual-arm clamps for laptop chargers).
 - [ ] **Under-Desk Dock & USB Hub Sleds** (PETG, 4 walls, passive airflow clearance).
 
 ---
@@ -94,7 +94,7 @@ See [[04 - Phase 2 - Garage & Workshop Tool Organization]] for engineering rules
 - [ ] **Wall Installation:** 3.5" clear spacing story-stick spacer; 2x Spax #9x2.5" screws per 16" stud.
 - [ ] **Universal 45° Cleat Backplates** (Bambu ASA, 5 walls, 35% Gyroid, side-print orientation).
 - [ ] **Anti-Lift Safety Cam-Locks** (Thumbscrew wedge prevents accidental lift-out).
-- [ ] **French Cleat to Multiboard Adapter Brackets** (Mounts 8x8 Multiboard tiles to cleats).
+- [ ] **French Cleat to openGrid Adapter Brackets** (Mounts openGrid tiles to cleats).
 
 #### 🔴 Milwaukee FUEL M18 & M12 Tool Storage System
 *Project Log:* [[Garage - Milwaukee M18 & M12 Tool & Battery Storage]]
@@ -147,7 +147,7 @@ Whenever you start a complex or multi-part build, create a new note in your `Pro
 | **Parametric Croc Clogs** | TPU 95A / Foaming TPU | 🟡 Ready to Slice | [[Footwear - Parametric Croc-Style Clogs]] |
 | **ZSA Voyager Choc Keycaps**| PETG-HF (0.2mm nozzle) | 🟡 Ready to Slice | [[Keycaps - ZSA Voyager Ergonomic Choc Set]] |
 | *Drawer Gridfinity Overhaul* | PLA Black | ⚪ Idea | — |
-| *Office Multiboard Wall* | PETG Grey | ⚪ Idea | — |
+| *Office openGrid Wall* | PETG Grey | ⚪ Idea | — |
 
 ---
 

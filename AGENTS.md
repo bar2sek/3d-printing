@@ -87,7 +87,7 @@ Whether operating at the root vault level or inside any child repository, you **
 ### C. Digital Manufacturing & Physical Shop (`3d-printing`)
 * **Bambu X2D Specs**: Dual independent hotends (300°C), heated chamber (65°C), zero-gap support interfaces (`Support for ABS` with ASA; PETG with PLA).
 * **Filament Routing**: Feed flexible TPU (95A / foaming) externally via 4-in-1 PTFE adapter on ball-bearing rollers (never through AMS).
-* **Workshop Hierarchy**: Level 1 French Cleats (3/4" Baltic Birch, 45° rails), Level 2 Multiboard Islands, Level 3 Gridfinity (42mm) & Underware.
+* **Workshop Hierarchy**: Level 1 French Cleats (3/4" Baltic Birch, 45° rails), Level 2 openGrid Islands (28mm), Level 3 Gridfinity (42mm) & Underware for openGrid.
 * **Project Documentation**: Log print builds in `Projects/` using `Templates/Template - Print Project Log.md`.
 
 ### D. Knowledge Base & Curriculum (`aws-learning`)

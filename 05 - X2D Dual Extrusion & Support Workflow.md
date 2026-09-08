@@ -79,7 +79,7 @@ graph TD
 ## 💡 Practical Examples for Garage Prints
 
 * **Under-shelf Drill Mounts:** Print horizontal slide rails with 0.0mm support interface so drills slide in like butter without sanding.
-* **Threaded Bolt Bosses in Multiboard:** Overhanging screw sockets print with crisp internal threads.
+* **Multiconnect Fittings & Sockets in openGrid:** Overhanging snap sockets and latching clips print with razor-sharp tolerances.
 * **Cantilever Tool Hooks:** Heavy tool brackets print flat with curved overhang supports that pop right off.
 
 ---

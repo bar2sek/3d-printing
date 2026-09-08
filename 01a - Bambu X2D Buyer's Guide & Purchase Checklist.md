@@ -99,7 +99,7 @@ Use this interactive checklist when placing your initial order:
 - [ ] Bambu Spare PTFE Tubing (2–4m pack, for external spool routing to 4-in-1 adapter)
 - [ ] Bambu Liquid Glue (or glue stick — essential release agent for TPU on Textured PEI)
 - [ ] Spool: Bambu PLA Basic (2x spools, neutral colors like Black/Grey)
-- [ ] Spool: Bambu PETG-HF (2x spools, ideal for [[03 - Phase 1 - Desk Organization (Gridfinity & Multiboard)|Multiboard & Underware]])
+- [ ] Spool: Bambu PETG-HF (2x spools, ideal for [[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)|openGrid & Underware]])
 - [ ] Spool: Bambu Support for PLA/PETG (1x spool for auxiliary nozzle)
 - [ ] Spool: Bambu ASA (1x spool to test garage mounts)
 - [ ] Spool: Bambu Support for ABS (1x spool for auxiliary nozzle zero-gap testing)

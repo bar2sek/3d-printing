@@ -1,7 +1,7 @@
 ---
-title: "Project: Universal French Cleat & Multiboard Island Infrastructure"
+title: "Project: Universal French Cleat & openGrid Island Infrastructure"
 created: 2026-09-05
-updated: 2026-09-06
+updated: 2026-09-08
 tags:
   - 3d-printing
   - project
@@ -9,7 +9,8 @@ tags:
   - office
   - workshop
   - french-cleat
-  - multiboard
+  - opengrid
+  - multiconnect
   - woodworking
 status: Ready to Build # [Idea, Ready to Build, In Progress, Completed]
 material_main: 3/4" Baltic Birch Plywood (Rails) + Bambu ASA/PETG (Brackets)
@@ -17,9 +18,9 @@ material_aux: Support for ABS (Zero-gap overhangs)
 nozzle_size: 0.4mm or 0.6mm Hardened Steel
 ---
 
-# 🪵 Project: Universal French Cleat & Multiboard Island Infrastructure
+# 🪵 Project: Universal French Cleat & openGrid Island Infrastructure
 
-A unified room-scale storage architecture combining **3/4" Baltic Birch plywood wall rails** with **3D-printed tool caddies, Multiboard islands, and locking tabs** printed on the **Bambu X2D**. Standardized with identical dimensions across **both the Garage and Office**.
+A unified room-scale storage architecture combining **3/4" Baltic Birch plywood wall rails** with **3D-printed tool caddies, openGrid islands, and locking tabs** printed on the **Bambu X2D**. Standardized with identical dimensions across **both the Garage and Office**.
 
 ---
 
@@ -32,18 +33,18 @@ flowchart TD
     end
     
     subgraph MESO["Tier 2: Workstation Tooling (Wall Focal Zones)"]
-        MULTI["Multiboard Islands<br>(Rigid clusters hanging directly on cleats)"]
+        OPEN["openGrid Islands<br>(Rigid clusters hanging directly on cleats)"]
         M18["Milwaukee Heavy Tool Caddies<br>(Drills, grinders, sawzalls, battery strips)"]
     end
     
     subgraph MICRO["Tier 3: Surfaces & Cables (Drawers & Desks)"]
         GRID["Gridfinity (Drawers & Trays)"]
-        UNDER["Underware on Multiboard<br>(Under-Desk Cable & Gear Routing)"]
+        UNDER["Underware for openGrid<br>(Under-Desk Cable & Gear Routing)"]
     end
     
-    CLEAT --> MULTI
+    CLEAT --> OPEN
     CLEAT --> M18
-    MULTI --> GRID
+    OPEN --> GRID
     CLEAT -.-> UNDER
 ```
 
@@ -99,7 +100,7 @@ $$\text{Row Height} = 2.9" \text{ (Cleat)} + 3.5" \text{ (Clear Space)} = \mathb
 
 ---
 
-## 🖨️ 3D-Printed French Cleat Brackets & Multiboard Islands
+## 🖨️ 3D-Printed French Cleat Brackets & openGrid Islands
 
 3D printing produces custom-fitted brackets that hook directly onto your 3/4" birch cleats with zero joinery:
 
@@ -118,14 +119,14 @@ $$\text{Row Height} = 2.9" \text{ (Cleat)} + 3.5" \text{ (Clear Space)} = \mathb
              ================================================
 ```
 
-### 1. Dual-Cleat Multiboard Island Frame (Office Focal Zone)
-* **Function:** Mounts a 2x2 or 3x3 Multiboard tile cluster onto the French cleat wall.
-* **Engineering:** Catches **two consecutive cleats ($6.5"$ center-to-center span)**. This vertical leverage completely prevents the bottom of the Multiboard from swinging inward when plugging in USB cables or pressing accessories into the grid.
-* **Material:** **PETG** (Office) or **ASA** (Garage). 4 walls, 25% Gyroid infill.
+### 1. Dual-Cleat openGrid Island Frame (Office Focal Zone)
+* **Function:** Mounts an openGrid tile cluster onto the French cleat wall.
+* **Engineering:** Catches **two consecutive cleats (6-unit / $168\text{ mm}$ span matching the $6.5\"$ cleat row spacing)**. This vertical leverage completely prevents the bottom of the openGrid from swinging inward when plugging in USB cables or pressing Multiconnect accessories into the grid.
+* **Material:** **PETG** (Office) or **ASA** (Garage). 4 walls, 20% Gyroid infill.
 
 ### 2. Single-Cleat Plumb Offset Spacer ($3/4"$ Standoff)
-* **Function:** For small 1x1 or 2x1 mini Multiboard clusters hung from a single cleat.
-* **Design:** A 3D-printed $3/4"$ thick block attached to the bottom corners of the tile that rests against the drywall, ensuring the panel hangs dead vertical.
+* **Function:** For small mini openGrid clusters hung from a single cleat.
+* **Design:** A 3D-printed $3/4"$ thick block that snaps into the bottom corners of the openGrid tile to rest against the drywall, ensuring the panel hangs dead vertical.
 
 ### 3. Anti-Lift Safety Cam-Locks / Thumbscrew Wedges
 * **The Problem:** In an office or shop, pulling tools, headphones, or cords upward can accidentally lift a caddy off the 45° cleat.
@@ -144,11 +145,11 @@ $$\text{Row Height} = 2.9" \text{ (Cleat)} + 3.5" \text{ (Clear Space)} = \mathb
 - [ ] **Office Wall:** Mount 6 cleat rows behind desk with Spax screws.
 - [ ] **Garage Wall:** Mount 10 cleat rows across tool wall with Spax screws.
 - [ ] **3D Prints (Office):**
-  - [ ] 2x Dual-cleat Multiboard Island mounting brackets (6.5" span).
+  - [ ] 2x Dual-cleat openGrid Island mounting brackets (6-unit / 168mm span).
   - [ ] 2x Anti-lift thumbscrew cam locks.
-  - [ ] 2x2 Multiboard tile cluster with headphone hook & caliper cradle.
+  - [ ] openGrid tile cluster with Multiconnect headphone hook & caliper cradle.
 - [ ] **3D Prints (Garage):** Proceed to [[Garage - Milwaukee M18 & M12 Tool & Battery Storage]].
 
 ---
 
-**Related Notes:** [[03 - Phase 1 - Desk Organization (Gridfinity & Multiboard)]] | [[04 - Phase 2 - Garage & Workshop Tool Organization]] | [[Garage - Milwaukee M18 & M12 Tool & Battery Storage]] | [[08 - Print Queue & Project Tracker]]
+**Related Notes:** [[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)]] | [[04 - Phase 2 - Garage & Workshop Tool Organization]] | [[Garage - Milwaukee M18 & M12 Tool & Battery Storage]] | [[08 - Print Queue & Project Tracker]]

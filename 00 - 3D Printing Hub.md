@@ -18,7 +18,7 @@ This vault serves as your complete end-to-end knowledge base:
 1. **Pre-Purchase & Evaluation:** Budgeting, workspace planning, and buying checklists.
 2. **Beginner Onboarding:** Slicing fundamentals, software workflows, and Day 1 setup.
 3. **Unified Room-Scale Infrastructure:** Universal **3/4" Birch French Cleats** (3" slats, 3.5" clear gaps, 6.5" center-to-center) across both **Office** and **Garage**.
-4. **Three-Tier Workspace Stack:** French Cleats (Macro), **Multiboard Islands** (Meso), and **Gridfinity & Underware** (Micro).
+4. **Three-Tier Workspace Stack:** French Cleats (Macro), **openGrid Islands** (Meso), and **Gridfinity & Underware** (Micro).
 5. **Garage Functional Engineering:** Heavy-duty **Milwaukee FUEL M18 & M12 cordless tool & battery docks** using engineering filaments (**ASA**, **EZ PA / Nylon**, **PC-ABS**) and dual-nozzle zero-gap supports.
 6. **Footwear & Wearables:** Single-piece Croc-style clogs, slides, barefoot shoes, and running shoe lattice midsoles using flexible polymers (**TPU 95A** & **Foaming TPU**).
 7. **Precision 0.2mm Printing:** Ultra-fine mechanical keyboard keycaps for the **ZSA Voyager** (Kailh Choc v1 switches, *KLP Lamé* & *Chicago Steno* profiles, flush dual-color legends).
@@ -40,7 +40,7 @@ flowchart TD
     end
     
     subgraph EXEC["Phase 1: Workspace Organization"]
-        PHASE1["03 - Phase 1: Desk Setup (Gridfinity, Multiboard & Underware)"]
+        PHASE1["03 - Phase 1: Desk Setup (Gridfinity, openGrid & Underware)"]
         QUEUE["08 - Print Queue & Project Tracker"]
     end
     
@@ -94,7 +94,7 @@ flowchart TD
 | **01b**| [[01b - Beginner 101 & Slicer Fundamentals]] | Core concepts & setup | Model sources, slicer settings (walls vs infill, Gyroid, supports), unboxing & calibration |
 | **01** | [[01 - Bambu X2D Hardware & Setup]] | Machine capabilities | Dual independent nozzles, actively heated chamber, plate selection, ventilation |
 | **02** | [[02 - Filament & Material Selection]] | Material strategy | PLA vs PETG vs Engineering (ASA, EZ PA Nylon, PC-ABS), drying parameters |
-| **03** | [[03 - Phase 1 - Desk Organization (Gridfinity & Multiboard)]] | Three-Tier Workspace Stack | Universal French Cleats (Macro), Multiboard Islands (Meso), Gridfinity & Underware (Micro) |
+| **03** | [[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)]] | Three-Tier Workspace Stack | Universal French Cleats (Macro), openGrid Islands (Meso), Gridfinity & Underware (Micro) |
 | **04** | [[04 - Phase 2 - Garage & Workshop Tool Organization]] | Garage & shop engineering | 4x8 Birch French cleat cut plan, 3.5" spacing, Milwaukee FUEL M18/M12 tool & battery docks |
 | **05** | [[05 - X2D Dual Extrusion & Support Workflow]] | Multi-material support | Zero-gap interface printing (`Support for ABS`), slicer configuration |
 | **06** | [[06 - Print Troubleshooting & Maintenance]] | Reliability & repairs | Moisture fixes, warping prevention, Dawn dish soap cleaning, routine maintenance |
@@ -127,12 +127,12 @@ When managing your 3D printing workflow, use the pre-built templates in `Templat
   - [ ] Print Day 1 essentials: [[Starter Project - Bambu Scraper & Poop Chute Bin]].
 
 ### 📦 Phase 1: Workspace Organization & The Three-Tier Stack
-* **Goal:** Establish universal room-scale French cleat infrastructure indoors, mount rigid Multiboard islands, and organize desk drawers and cables.
+* **Goal:** Establish universal room-scale French cleat infrastructure indoors, mount rigid openGrid islands, and organize desk drawers and cables.
 * **Systems:**
-  1. **Level 1 (Macro):** [[03 - Phase 1 - Desk Organization (Gridfinity & Multiboard)#The Unified Three-Tier Hierarchy|Universal 3/4" French Cleats]] (3" slats, 3.5" gaps, 6.5" center-to-center across Office & Garage).
-  2. **Level 2 (Meso):** [[03 - Phase 1 - Desk Organization (Gridfinity & Multiboard)#Level 2 Multiboard Islands for French Cleats|Multiboard Islands]] (Dual-cleat 6.5" brackets, 3/4" plumb spacers, anti-lift thumbscrew locks).
-  3. **Level 3 (Micro):** [[03 - Phase 1 - Desk Organization (Gridfinity & Multiboard)#Level 3 Gridfinity Drawers & Desktop Trays|Gridfinity]] (drawers) & [[03 - Phase 1 - Desk Organization (Gridfinity & Multiboard)#Level 3 Underware on Multiboard Under-Desk Cable Management|Underware on Multiboard]] (under-desk cables & gear).
-* **Filaments:** **PLA / PLA+** (rigid Gridfinity bins) & **PETG** (Multiboard tiles, cleat clips, and Underware raceways).
+  1. **Level 1 (Macro):** [[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)#The Unified Three-Tier Hierarchy|Universal 3/4" French Cleats]] (3" slats, 3.5" gaps, 6.5" center-to-center across Office & Garage).
+  2. **Level 2 (Meso):** [[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)#Level 2 openGrid Islands for French Cleats|openGrid Islands]] (28mm modular grid, Multiconnect snaps, dual-cleat 168mm brackets, 3/4" plumb spacers).
+  3. **Level 3 (Micro):** [[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)#Level 3 Gridfinity Drawers & Desktop Trays|Gridfinity]] (drawers) & [[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)#Level 3 Underware for openGrid Under-Desk Cable Management|Underware for openGrid]] (under-desk cables & gear).
+* **Filaments:** **PLA / PLA+** (rigid Gridfinity bins) & **PETG** (openGrid tiles, Multiconnect clips, and Underware raceways).
 
 ### 🛠️ Phase 2: Workshop & Garage Organization (Functional Engineering)
 * **Goal:** Create load-bearing, impact-resistant, heat- and UV-tolerant tool holders and mounts.
@@ -175,8 +175,8 @@ When managing your 3D printing workflow, use the pre-built templates in `Templat
 
 > [!TIP] Workspace Organization System Guide
 > * **Inside Drawers & On Top of Desks:** Use **Gridfinity** (42mm grid, magnetic).
-> * **On Walls & Pegboard Surfaces:** Use **Multiboard** (interlocking 8x8 honeycomb tiles).
-> * **Under Desks & Behind Furniture:** Use **Underware** (cable raceways, power supply brackets).
+> * **On Walls & Desktop Focal Zones:** Use **openGrid** (28mm grid, lightweight lattice, Multiconnect snaps).
+> * **Under Desks & Behind Furniture:** Use **Underware for openGrid** (cable raceways, power supply brackets).
 
 > [!IMPORTANT] Slicing Golden Rules
 > * **Walls beat infill:** Adding 2 extra walls increases structural strength far more than jumping from 20% to 60% infill.
