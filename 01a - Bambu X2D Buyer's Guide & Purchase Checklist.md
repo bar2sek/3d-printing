@@ -38,6 +38,9 @@ flowchart TD
 > [!TIP] Buying Recommendation
 > If your budget permits, **the Combo is strongly recommended**. Buying the AMS 2 Pro bundled with the printer is significantly cheaper than purchasing it separately later, and the integrated drying system is invaluable for the engineering materials (ASA/Nylon) you'll use in [[04 - Phase 2 - Garage & Workshop Tool Organization|Phase 2]].
 
+> [!NOTE] What About the Bambu AMS HT?
+> The **AMS HT** is a specialized single-spool 85°C active drying unit designed for extreme engineering polymers (PA-CF, PPA, PPS). For Day 1, it is **not needed**. Furthermore, like all AMS units, the AMS HT **cannot** feed flexible TPU. For your Phase 3 footwear (TPU 95A & Foaming TPU), use a budget standalone dryer (~$45 Sunlu S2 / Sovol SH01) feeding directly via the external 4-in-1 PTFE adapter.
+
 ---
 
 ## 💰 Total Cost of Ownership (TCO) & Budget Breakdown
@@ -99,7 +102,7 @@ Use this interactive checklist when placing your initial order:
 - [ ] Bambu Spare PTFE Tubing (2–4m pack, for external spool routing to 4-in-1 adapter)
 - [ ] Bambu Liquid Glue (or glue stick — essential release agent for TPU on Textured PEI)
 - [ ] Spool: Bambu PLA Basic (2x spools, neutral colors like Black/Grey)
-- [ ] Spool: Bambu PETG-HF (2x spools, ideal for [[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)|openGrid & Underware]])
+- [ ] Spool: Bambu PETG Basic (reformulated 2026, replaced PETG-HF; 2x spools, ideal for [[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)|openGrid & Underware]])
 - [ ] Spool: Bambu Support for PLA/PETG (1x spool for auxiliary nozzle)
 - [ ] Spool: Bambu ASA (1x spool to test garage mounts)
 - [ ] Spool: Bambu Support for ABS (1x spool for auxiliary nozzle zero-gap testing)

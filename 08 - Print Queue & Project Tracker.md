@@ -128,7 +128,7 @@ See [[10 - Precision Printing & ZSA Voyager Keycaps (0.2mm Nozzle)]] for stem ge
 
 - [ ] **ZSA Voyager Ergonomic Choc Set (52 Keys)** — Custom *KLP Lamé* or *Chicago Steno* scooped caps. [[Keycaps - ZSA Voyager Ergonomic Choc Set|Project Log]]
   - *Nozzle:* **0.2 mm Hardened Steel** (resolves 0.55mm stem prongs)
-  - *Filament:* PETG-HF (Black body + White/Cyan legends)
+  - *Filament:* PETG Basic (Black body + White/Cyan legends)
   - *Slicer Settings:* `0.08 mm` layer height, 4 walls, 100% solid infill, **Print by Object** (sequential), micro-fuzzy skin (`0.06mm / 0.10mm`).
 - [ ] **Tactile Homing Marker Caps (F and J)** — Pronounced index-finger orientation ridges.
 - [ ] **Voyager Ergonomic Thumb Fan Cluster** — Angled, low-fatigue space/enter thumb keys.
@@ -145,7 +145,7 @@ Whenever you start a complex or multi-part build, create a new note in your `Pro
 | **Modular French Cleat System** | 3/4" Birch + ASA | 🟡 Ready to Build | [[Garage - Modular French Cleat Tool System]] |
 | **Milwaukee M18 & M12 Storage** | ASA / EZ PA Nylon | 🟡 Ready to Slice | [[Garage - Milwaukee M18 & M12 Tool & Battery Storage]] |
 | **Parametric Croc Clogs** | TPU 95A / Foaming TPU | 🟡 Ready to Slice | [[Footwear - Parametric Croc-Style Clogs]] |
-| **ZSA Voyager Choc Keycaps**| PETG-HF (0.2mm nozzle) | 🟡 Ready to Slice | [[Keycaps - ZSA Voyager Ergonomic Choc Set]] |
+| **ZSA Voyager Choc Keycaps**| PETG Basic (0.2mm nozzle) | 🟡 Ready to Slice | [[Keycaps - ZSA Voyager Ergonomic Choc Set]] |
 | *Drawer Gridfinity Overhaul* | PLA Black | ⚪ Idea | — |
 | *Office openGrid Wall* | PETG Grey | ⚪ Idea | — |
 

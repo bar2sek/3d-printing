@@ -161,7 +161,7 @@ When managing your 3D printing workflow, use the pre-built templates in `Templat
 * **Goal:** Produce ultra-detailed, durable low-profile keycaps for the ZSA Voyager keyboard.
 * **Hardware:** **0.2 mm Hardened Steel Nozzle** (resolves 0.55mm Kailh Choc v1 stem prongs).
 * **Projects:** Custom *KLP Lamé* or *Chicago Steno* ergonomic keycap sets, tactile homing ridges, angled thumb cluster fans.
-* **Filaments:** **PETG-HF** (tough, flexible stem retention) or **ASA** (matte PBT-style feel, zero oil shine).
+* **Filaments:** **PETG Basic** (tough, flexible stem retention; replaces older PETG-HF) or **ASA** (matte PBT-style feel, zero oil shine).
 * **Key Milestones:**
   - [ ] Swap to 0.2 mm Hardened Steel hotend and select profile in printer touchscreen.
   - [ ] Print single 1U test cap to dial in Kailh Choc v1 stem tolerance ([[Keycaps - ZSA Voyager Ergonomic Choc Set]]).

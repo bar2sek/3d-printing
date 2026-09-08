@@ -37,9 +37,10 @@ Choosing the right material prevents failed prints and ensures your finished par
 * **Why use it for Desk Setup:** Perfect for [[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)#Gridfinity Basics|Gridfinity bins]] and drawer bases where temperature is climate-controlled and impact forces are negligible.
 * **Limitation:** Glass transition temperature is ~55°C. **Never use PLA in a hot car or uninsulated garage in summer**, as parts will soften and sag under load.
 
-### 2. PETG (Polyethylene Terephthalate Glycol)
-* **Overview:** More flexible and impact-resistant than PLA, with higher temperature tolerance (~75°C).
-* **Why use it:** Great for desktop [[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)#Level 2 openGrid Islands for French Cleats|openGrid tiles]] and snap-fit accessories that need a little flex without snapping.
+### 2. PETG (Polyethylene Terephthalate Glycol) — Bambu PETG Basic
+* **Overview:** More flexible and impact-resistant than PLA, with higher temperature tolerance (~75°C) and superior creep resistance under constant load.
+* **Bambu Formulation Note:** Bambu Lab phased out their older *PETG-HF* (High Flow) and replaced it with a reformulated **PETG Basic**. The reformulated PETG Basic dramatically enhances Z-axis layer bonding, tensile strength, and impact resistance—making it substantially superior for snap-fit latches and structural brackets.
+* **Why use it:** Essential for desktop [[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)#Level 2 openGrid Islands for French Cleats|openGrid tiles]], Multiconnect snap clips, and [[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)#Level 3 Underware for openGrid Under-Desk Cable Management|Underware cable raceways]] that need mechanical toughness and long-term elasticity without snapping.
 
 ### 3. Flexible & Footwear Polymers (TPU 95A, 85A & Foaming TPU)
 * **Overview:** Elastic, rubber-like thermoplastic polyurethanes with extreme abrasion resistance and tear strength.
