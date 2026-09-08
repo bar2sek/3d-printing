@@ -144,7 +144,7 @@ When managing your 3D printing workflow, use the pre-built templates in `Templat
   - [ ] Print universal 45° cleat backplates in **ASA** with side-print orientation to prevent 45° shear delamination.
   - [ ] Print Milwaukee M18 Drill/Driver slide docks, M12 circular saw shoe cradle, and grinder neck mount ([[Garage - Milwaukee M18 & M12 Tool & Battery Storage]]).
   - [ ] Print M18 4-bay battery strip with **EZ PA Nylon** spring retention tabs and M12 cylindrical honeycomb caddy.
-  - [ ] Configure dual-nozzle zero-gap interface supports using `Support for ABS` ([[05 - X2D Dual Extrusion & Support Workflow]]).
+  - [ ] Configure supports (test same-material 0.2mm air-gap vs zero-gap interface) ([[05 - X2D Dual Extrusion & Support Workflow]]).
 
 ### 👟 Phase 3: Footwear & Wearables (Flexible Polymers)
 * **Goal:** Master printing ergonomic, custom-molded footwear using direct-drive flexible filaments.

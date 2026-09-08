@@ -43,8 +43,11 @@ STANDARD SINGLE NOZZLE (0.2mm Gap)        X2D DUAL NOZZLE (0.0mm Zero-Gap)
 | **PA12-CF & PA6-GF** | **Support for ABS** | Clean separation on fiber parts |
 | **PA6-CF** | **ASA Filament** | ASA acts as the ideal non-stick barrier for PA6-CF |
 | **PC (Polycarbonate)** | **ASA** or **Support for ABS** | ASA leaves cleanest interface; Support for ABS releases easiest |
-| **PLA** | **Support for PLA** or **PETG** | PETG does not weld to PLA |
-| **PETG** | **Support for PETG** or **PLA** | PLA does not weld to PETG |
+| **PLA** | **PETG** (or Support for PLA) | PETG does not weld to PLA; peels off like a sticker |
+| **PETG** | **PLA** (or Support for PETG) | PLA does not weld to PETG; peels off cleanly |
+
+> [!TIP] Cost-Saving Strategy: PLA $\leftrightarrow$ PETG Cross-Supporting
+> You do **not** need to buy proprietary \$35 "Support for PLA/PETG" spools. Standard PLA and PETG are chemically immiscible: use standard PETG as the interface for PLA prints, and standard PLA as the interface for PETG prints at `0.0 mm` Z-distance. For ASA, most functional garage tool brackets print support-free or use standard 0.2mm air-gap same-material ASA supports.
 
 ---
 
