@@ -55,7 +55,7 @@ Beyond the printer, budget for plates, spare nozzles, filament, and tools.
 | **Hotends** | 0.4 mm Hardened Steel Nozzle Assembly | Included | Essential | Default precision hotend |
 | **Hotends** | 0.2 mm Hardened Steel Nozzle Assembly | \$35 – \$45 | Recommended | Essential for [[10 - Precision Printing & ZSA Voyager Keycaps (0.2mm Nozzle)\|ZSA Voyager Choc keycaps]] & miniatures |
 | **Hotends** | 0.6 mm Hardened Steel Nozzle Assembly | \$35 – \$45 | Recommended | Essential for carbon-fiber (CF) or glass-fiber (GF) |
-| **Filaments** | Starter Filament Bundle (4–6 spools) | \$100 – \$150 | Essential | 2x PLA, 2x PETG, 1x Support for PLA, 1x ASA |
+| **Filaments** | Starter Filament Bundle (5 spools) | \$80 – \$110 | Essential | 2x PLA Basic, 2x PETG Basic, 1x ASA (PLA $\leftrightarrow$ PETG cross-support) |
 | **Adhesives** | Bambu Liquid Glue or PVA Glue Stick | \$15 – \$20 | Essential | Adhesion for ASA; release agent for PETG/PC |
 | **Tools** | 6" / 150mm Digital Calipers | \$20 – \$35 | Essential | Crucial for measuring parts and checking tolerances |
 | **Tools** | Flush cutters, deburring tool, scraper | \$15 – \$25 | Essential | For brim cleaning and support removal |
@@ -102,10 +102,9 @@ Use this interactive checklist when placing your initial order:
 - [ ] Bambu Spare PTFE Tubing (2–4m pack, for external spool routing to 4-in-1 adapter)
 - [ ] Bambu Liquid Glue (or glue stick — essential release agent for TPU on Textured PEI)
 - [ ] Spool: Bambu PLA Basic (2x spools, neutral colors like Black/Grey)
-- [ ] Spool: Bambu PETG Basic (reformulated 2026, replaced PETG-HF; 2x spools, ideal for [[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)|openGrid & Underware]])
-- [ ] Spool: Bambu Support for PLA/PETG (1x spool for auxiliary nozzle)
-- [ ] Spool: Bambu ASA (1x spool to test garage mounts)
-- [ ] Spool: Bambu Support for ABS (1x spool for auxiliary nozzle zero-gap testing)
+- [ ] Spool: Bambu PETG Basic (reformulated 2026; 2x spools, ideal for [[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)|openGrid & Underware]])
+  > *Zero-Gap Support Strategy:* You do **not** need dedicated $35 support spools. Standard PLA and PETG do not bond to each other; cross-use them as zero-gap (0.0mm) interface layers in the X2D dual nozzles.
+- [ ] Spool: Bambu ASA (1x spool to test garage mounts — uses standard 0.2mm air-gap breakaway supports, no specialty filament required)
 - [ ] Spool: Bambu TPU 95A HF (1–2 spools for [[09 - 3D Printed Footwear (Sneakers, Clogs & TPU)|shoes, clogs, and slides]])
 
 ### From Amazon / Local Hardware Store
