@@ -1,0 +1,60 @@
+# ==========================================
+# 3D Printing & Slicer Artifacts
+# ==========================================
+# G-code files are machine-specific and huge (10MB–500MB+)
+*.gcode
+*.gcode.zip
+*.bgcode
+*.ufp
+
+# Slicer caches, temporary files, and auto-backups
+*.tmp
+*.log
+.bambu/
+.orcaslicer/
+.prusa/
+*.3mf.bak*
+
+# ==========================================
+# Obsidian & Note-Taking Workspace
+# ==========================================
+# Ignore local workspace layout and cache to prevent noisy merge conflicts
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/graph.json
+.trash/
+
+# Note: Core Obsidian configs (app.json, appearance.json, hotkeys.json, community-plugins.json)
+# are preserved so your plugins and theme settings are version controlled.
+
+# ==========================================
+# Operating System & Cloud Storage Noise
+# ==========================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Google Drive / Cloud Sync Artifacts
+*.gdoc
+*.gsheet
+*.gslides
+*.tmp.drive*
+*conflict*
+
+# General temporary and backup files
+*~
+*.bak
+*.swp
+*.swo
+.vscode/

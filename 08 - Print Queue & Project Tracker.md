@@ -1,0 +1,154 @@
+---
+title: Print Queue & Project Tracker
+created: 2026-09-05
+tags:
+  - 3d-printing
+  - project-tracker
+  - print-queue
+  - organization
+---
+
+# 📋 Print Queue & Project Tracker
+
+Use this centralized dashboard to prioritize what to print, track items through slicing and production, and maintain a history of your successful builds.
+
+---
+
+## 🚦 Kanban / Status Overview
+
+```mermaid
+kanban
+  Backlog
+    [MakerWorld Scraper Handle]
+    [Rear Poop Chute Waste Bin]
+    [PTFE Tube Guide & Strain Relief]
+    [Desk Drawer Gridfinity Grid 4x5]
+    [Multiboard 2x2 Headphone Tile]
+  Ready to Slice
+    [Gridfinity Caliper Tray]
+    [Underware on Multiboard Raceways]
+    [Parametric Croc Clogs]
+    [ZSA Voyager Choc Keycaps]
+    [Milwaukee M18/M12 Cleat Racks]
+    [Universal French Cleat Brackets]
+  Printing
+    [3DBenchy Calibration Boat]
+  Completed
+    [Machine Transit Check & Calibration]
+```
+
+---
+
+## 🎯 High-Priority Print Queue
+
+### 🏁 Tier 0: Machine Setup & First-Day Essentials
+Print these before anything else to upgrade your printer workflow and protect your setup:
+
+- [ ] **Bambu Scraper Handle** — Uses the scraper blade included in your accessories box. [[Starter Project - Bambu Scraper & Poop Chute Bin|Project Log]]
+  - *Filament:* PLA or PETG (2 walls, 15% infill)
+- [ ] **Rear Poop Chute Bin** — Catches purged filament beads ejected out the back so they don't pile up on your table.
+  - *Filament:* PLA or PETG
+- [ ] **PTFE Tube Arc Guide** — Relieves strain where the Bowden tube enters the top glass lid / toolhead.
+  - *Filament:* PETG or PLA+
+- [ ] **Low-Friction 608-Bearing External Spool Roller** — Essential for flexible TPU feeding to eliminate spool drag and prevent filament stretching. Uses 4x 608-2RS skate bearings.
+  - *Filament:* PLA or PETG (3 walls, 20% Gyroid)
+- [ ] **Silica Desiccant Spool Center Inserts** — Fits into the core of filament spools inside your dry boxes.
+  - *Filament:* PETG or ABS
+
+---
+
+### 🖥️ Tier 1: Phase 1 Workspace Organization (Desk & Cables)
+See [[03 - Phase 1 - Desk Organization (Gridfinity & Multiboard)]] for system details:
+
+#### Gridfinity (Drawers & Desktop)
+- [ ] **Test 1x1 Bin (42x42mm)** — Verify magnet press-fit and perimeter tolerances.
+- [ ] **Primary Desk Drawer Baseplate** — Sliced in draft mode (`0.28 mm`).
+- [ ] **Digital Caliper Cradle Bin (1x4 or 1x5)** — Keeps calipers safe and easily accessible.
+- [ ] **Pen & Sharpie Organizer Bin (1x2)**.
+- [ ] **USB Drive / SD Card Storage Bin**.
+
+#### Multiboard French Cleat Islands (Office Focal Zones)
+*Architecture:* [[03 - Phase 1 - Desk Organization (Gridfinity & Multiboard)#Level 2 Multiboard Islands for French Cleats|Multiboard Islands Guide]]
+- [ ] **Dual-Cleat Multiboard Backer Brackets** (2x brackets spanning 6.5" across two cleats, PETG).
+- [ ] **3/4" Bottom Plumb Standoff Spacers** (Keeps single-cleat mini islands vertical).
+- [ ] **Anti-Lift Thumbscrew Cam-Locks** (Locks island when pulling upward on cords/headphones).
+- [ ] **2x2 Core Multiboard Tile Cluster** (PETG, 3 walls).
+- [ ] **Headphone Hanger Arm & Caliper Cradle**.
+- [ ] **Multiboard Cable Drop Clips**.
+
+#### Underware on Multiboard (Under-Desk Cable & Gear Routing)
+*Architecture:* [[03 - Phase 1 - Desk Organization (Gridfinity & Multiboard)#Level 3 Underware on Multiboard Under-Desk Cable Management|Underware on Multiboard Guide]]
+- [ ] **Under-Desk Multiboard Substrate Tiles** (2–4x 8x8 Core Tiles, PETG, mounted with #8x1/2" pan-head wood screws).
+- [ ] **Underware Snap-in Cable Raceways & J-Hooks** (PETG, snaps directly into inverted Multiboard holes).
+- [ ] **Multiboard Clamping Power Brick Cradles** (Custom-fit dual-arm clamps for laptop chargers).
+- [ ] **Under-Desk Dock & USB Hub Sleds** (PETG, 4 walls, passive airflow clearance).
+
+---
+
+### 🛠️ Tier 2: Phase 2 Workshop & Garage Tool Storage
+See [[04 - Phase 2 - Garage & Workshop Tool Organization]] for engineering rules and the 4x8 birch cut plan:
+
+#### 🪵 French Cleat Infrastructure (3/4" Birch Plywood & ASA)
+*Project Log:* [[Garage - Modular French Cleat Tool System]]
+- [ ] **Ripping 4x8 Birch Sheet:** 8 strips @ 5.85" wide $\rightarrow$ 45° center split into 16 cleats (128 linear feet).
+- [ ] **Wall Installation:** 3.5" clear spacing story-stick spacer; 2x Spax #9x2.5" screws per 16" stud.
+- [ ] **Universal 45° Cleat Backplates** (Bambu ASA, 5 walls, 35% Gyroid, side-print orientation).
+- [ ] **Anti-Lift Safety Cam-Locks** (Thumbscrew wedge prevents accidental lift-out).
+- [ ] **French Cleat to Multiboard Adapter Brackets** (Mounts 8x8 Multiboard tiles to cleats).
+
+#### 🔴 Milwaukee FUEL M18 & M12 Tool Storage System
+*Project Log:* [[Garage - Milwaukee M18 & M12 Tool & Battery Storage]]
+- [ ] **M18 Hammer Drill & Impact Driver Dual Slide Dock** (ASA, inverted battery foot channels).
+- [ ] **M12 Circular Saw Baseplate Shoe Bracket** (ASA, enclosed blade safety slot).
+- [ ] **M18 Angle Grinder Spindle Neck Collar** (PC-ABS / ASA, clears wheel guard & side handle).
+- [ ] **M18 FUEL Sawzall Two-Piece Horizontal Cradle** (ASA, front boot & rear D-handle saddles).
+- [ ] **M18 4-Bay Battery Locking Cleat Strip** (ASA frame + EZ PA Nylon spring retention tabs).
+- [ ] **M12 4-Bay Cylindrical Honeycomb Battery Caddy** (Deep terminal-protecting sockets).
+- [ ] **M18/M12 Dual Rapid Charger Cleat Mount** (1/2" convective air gap + cord wrap).
+
+---
+
+### 👟 Tier 3: 3D Printed Footwear & Wearables (TPU & Foaming TPU)
+See [[09 - 3D Printed Footwear (Sneakers, Clogs & TPU)]] for material rules, sizing calculations, and AMS bypass:
+
+- [ ] **Parametric Croc-Style Clogs** — Single-piece monocoque clog with ventilation ports. [[Footwear - Parametric Croc-Style Clogs|Project Log]]
+  - *Filament:* TPU 95A or ColorFabb varioShore Foaming TPU (3 walls, 12% Gyroid)
+  - *Setup:* External spool holder (bypass AMS), diagonal bed placement, textured PEI with glue stick.
+- [ ] **Casual Thick-Sole Slides (Whaleberry / Air Slides)**
+  - *Filament:* Foaming TPU for ultra-cushioned footbed.
+- [ ] **Barefoot / Minimalist Walking Shoes (Tora / Mirai)**
+  - *Filament:* TPU 85A or TPU 95A (thin sole, wide toe box).
+- [ ] **Lattice Running Sneaker Midsole**
+  - *Filament:* TPU 95A outsole + Foaming TPU lattice midsole.
+
+---
+
+### ⌨️ Tier 4: Precision 0.2mm Printing & Mechanical Keyboards
+See [[10 - Precision Printing & ZSA Voyager Keycaps (0.2mm Nozzle)]] for stem geometry, sequential slicing, and 0.2mm nozzle calibration:
+
+- [ ] **ZSA Voyager Ergonomic Choc Set (52 Keys)** — Custom *KLP Lamé* or *Chicago Steno* scooped caps. [[Keycaps - ZSA Voyager Ergonomic Choc Set|Project Log]]
+  - *Nozzle:* **0.2 mm Hardened Steel** (resolves 0.55mm stem prongs)
+  - *Filament:* PETG-HF (Black body + White/Cyan legends)
+  - *Slicer Settings:* `0.08 mm` layer height, 4 walls, 100% solid infill, **Print by Object** (sequential), micro-fuzzy skin (`0.06mm / 0.10mm`).
+- [ ] **Tactile Homing Marker Caps (F and J)** — Pronounced index-finger orientation ridges.
+- [ ] **Voyager Ergonomic Thumb Fan Cluster** — Angled, low-fatigue space/enter thumb keys.
+
+---
+
+## 🗂️ Project Log Directory
+
+Whenever you start a complex or multi-part build, create a new note in your `Projects/` folder using `Templates/Template - Print Project Log.md`.
+
+| Project Name | Primary Filament | Status | Notes Link |
+| :--- | :--- | :--- | :--- |
+| **Bambu Scraper & Poop Bin** | PLA / PETG | 🟡 Queued | [[Starter Project - Bambu Scraper & Poop Chute Bin]] |
+| **Modular French Cleat System** | 3/4" Birch + ASA | 🟡 Ready to Build | [[Garage - Modular French Cleat Tool System]] |
+| **Milwaukee M18 & M12 Storage** | ASA / EZ PA Nylon | 🟡 Ready to Slice | [[Garage - Milwaukee M18 & M12 Tool & Battery Storage]] |
+| **Parametric Croc Clogs** | TPU 95A / Foaming TPU | 🟡 Ready to Slice | [[Footwear - Parametric Croc-Style Clogs]] |
+| **ZSA Voyager Choc Keycaps**| PETG-HF (0.2mm nozzle) | 🟡 Ready to Slice | [[Keycaps - ZSA Voyager Ergonomic Choc Set]] |
+| *Drawer Gridfinity Overhaul* | PLA Black | ⚪ Idea | — |
+| *Office Multiboard Wall* | PETG Grey | ⚪ Idea | — |
+
+---
+
+**Back to Top:** [[00 - 3D Printing Hub]]
