@@ -62,3 +62,8 @@ Desktop.ini
 # Documents & Large Binaries
 *.pdf
 
+# Proprietary / Licensed 3D Model Files (Keep local, do not track/publish)
+Projects/Complete_Voyager_wrist_rest_system*/
+Projects/*[Vv]oyager*wrist*rest*/
+
+
