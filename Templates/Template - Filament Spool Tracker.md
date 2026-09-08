@@ -6,7 +6,7 @@ tags:
   - filament
   - inventory
 brand: Bambu Lab # [Bambu Lab, Sunlu, Polymaker, eSun, Overture]
-material: PLA Basic # [PLA, PETG-HF, ASA, EZ PA, PC-ABS, TPU]
+material: PLA Basic # [PLA, PETG Basic, ASA, EZ PA, PC-ABS, TPU]
 color: Black
 diameter_mm: 1.75
 empty_spool_weight_g: 220 # Typical Bambu reusable spool is ~220-250g

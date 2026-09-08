@@ -140,7 +140,7 @@ graph TD
 
 | Filament | Legend Sharpness | Stem Durability | Feel / Acoustic Profile | Recommendation |
 | :--- | :--- | :--- | :--- | :--- |
-| **PETG / PETG-HF** | ⭐⭐⭐⭐ | **⭐⭐⭐⭐⭐ (Highest)** | Smooth, semi-flexible, deep sound | **Best overall.** The slight flex of PETG prevents the prongs from snapping during repeated installation. |
+| **PETG Basic** | ⭐⭐⭐⭐ | **⭐⭐⭐⭐⭐ (Highest)** | Smooth, semi-flexible, deep sound | **Best overall.** (Replaces older PETG-HF). Superior layer adhesion and slight flex prevent prongs from snapping during repeated installation. |
 | **PLA+ / Tough PLA** | **⭐⭐⭐⭐⭐ (Crispest)**| ⭐⭐⭐ (Can be brittle)| Crisp, loud, rigid | Great for rapid prototyping and fine icon legends. |
 | **ASA** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Matte, textured, zero oil shine | Fantastic for long-term daily typing; can be acetone vapor smoothed. |
 

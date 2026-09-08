@@ -9,8 +9,8 @@ tags:
   - choc-v1
   - 0-2mm-nozzle
 status: Ready to Slice # [Idea, Ready to Slice, In Progress, Completed]
-material_main: Bambu PETG-HF (Black)
-material_aux: Bambu PETG-HF (White / Cyan)
+material_main: Bambu PETG Basic (Black)
+material_aux: Bambu PETG Basic (White / Cyan)
 nozzle_size: 0.2mm Hardened Steel
 print_time: ~18m per cap (Sequential 'By Object')
 filament_used_grams: ~1.2g per cap (~65g total set)
