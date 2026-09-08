@@ -92,20 +92,16 @@ Before placing the order, prepare your physical space:
 
 Use this interactive checklist when placing your initial order:
 
-### From Bambu Lab Store
-- [ ] Bambu X2D 3D Printer (or X2D Combo)
-- [ ] Extra 0.4 mm Hardened Steel Complete Hotend (good to have a ready spare)
-- [ ] 0.2 mm Hardened Steel Complete Hotend (essential for [[10 - Precision Printing & ZSA Voyager Keycaps (0.2mm Nozzle)|ZSA Voyager Choc keycaps]] and ultra-fine miniatures)
-- [ ] 0.6 mm Hardened Steel Complete Hotend (for future fiber-filled filaments)
-- [ ] Dual-sided Textured PEI Plate (if not included)
-- [ ] Bambu 4-in-1 PTFE Adapter (~$5, allows external TPU feed line to stay connected alongside AMS)
-- [ ] Bambu Spare PTFE Tubing (2–4m pack, for external spool routing to 4-in-1 adapter)
-- [ ] Bambu Liquid Glue (or glue stick — essential release agent for TPU on Textured PEI)
-- [ ] Spool: Bambu PLA Basic (2x spools, neutral colors like Black/Grey)
-- [ ] Spool: Bambu PETG Basic (reformulated 2026; 2x spools, ideal for [[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)|openGrid & Underware]])
-  > *Zero-Gap Support Strategy:* You do **not** need dedicated $35 support spools. Standard PLA and PETG do not bond to each other; cross-use them as zero-gap (0.0mm) interface layers in the X2D dual nozzles.
-- [ ] Spool: Bambu ASA (1x spool to test garage mounts — uses standard 0.2mm air-gap breakaway supports, no specialty filament required)
-- [ ] Spool: Bambu TPU 95A HF (1–2 spools for [[09 - 3D Printed Footwear (Sneakers, Clogs & TPU)|shoes, clogs, and slides]])
+### From Bambu Lab Store (ORDERED ✅)
+- [x] **Bambu Lab X2D AMS Combo** ($899.00)
+- [x] **Multi-Size Hotends Kit** (0.2mm + 0.6mm Hardened Steel)
+- [x] **Bambu 4-in-1 PTFE Adapter**
+- [x] **Bambu PTFE Tubes** (4000mm White Cut-to-length)
+- [x] **Bambu Glue Stick** (4-pack)
+- [x] **Bambu PLA Basic (3 spools):** Black, Jade White, Blue
+- [x] **Bambu PETG Basic (3 spools):** Black, Gray, White
+- [x] **Bambu ASA (1 spool):** Black
+- [x] **Bambu TPU 95A HF (1 spool):** Gray
 
 ### From Amazon / Local Hardware Store
 - [ ] Digital Calipers (Stainless steel, reads mm to 0.01mm)
