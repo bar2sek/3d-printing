@@ -77,9 +77,9 @@ graph TD
 ## 🪵 French Cleat Wall System: 4x8 Birch Plywood Architecture
 
 > [!TIP] Universal Room-Scale Infrastructure
-> This exact same French cleat profile (3" slats, 3.5" clear spacing, 6.5" center-to-center) is used in both your **Garage** and your **Office** ([[03 - Phase 1 - Desk Organization (Gridfinity & Multiboard)#The Unified Three-Tier Hierarchy|Three-Tier Organization Stack]]).
+> This exact same French cleat profile (3" slats, 3.5" clear spacing, 6.5" center-to-center) is used in both your **Garage** and your **Office** ([[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)#The Unified Three-Tier Hierarchy|Three-Tier Organization Stack]]).
 > * **Single Table Saw Setup:** You set your fence once and cut your story-stick spacer blocks once for your entire property.
-> * **Cross-Space Interoperability:** A battery charger rack, parts caddy, or [[03 - Phase 1 - Desk Organization (Gridfinity & Multiboard)#Level 2 Multiboard Islands for French Cleats|Multiboard Island]] can move seamlessly between the garage and the office without altering any mounting hardware.
+> * **Cross-Space Interoperability:** A battery charger rack, parts caddy, or [[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)#Level 2 openGrid Islands for French Cleats|openGrid Island]] can move seamlessly between the garage and the office without altering any mounting hardware.
 
 A French cleat system provides an infinitely reconfigurable wall mounting foundation. Combining **3/4" Baltic Birch plywood wall rails** with **3D-printed tool caddies** creates the ultimate garage workshop setup.
 

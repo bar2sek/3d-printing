@@ -24,7 +24,7 @@ Keep this guide handy when prints don't turn out as expected. Most 3D printing i
 | **Clogs when printing CF or GF filaments** | Fiber particles jamming a small or brass nozzle | Switch to a **0.6 mm Hardened Steel nozzle**. |
 | **Supports fused / impossible to remove** | Incompatible interface material or wrong gap | Check [[05 - X2D Dual Extrusion & Support Workflow#Material Pairing Cheat Sheet|Support Pairing Matrix]]; ensure Top Z-distance is set to `0.0 mm`. |
 | **First layer bubbling or patchy adhesion** | Fingerprint oils on PEI plate | Wash build plate thoroughly in the sink using warm water and **Dawn dish soap** (IPA only spreads heavy grease). |
-| **Dimensional inaccuracies in Multiboard/Gridfinity** | Flow rate / XY shrinkage | Calibrate filament flow dynamics (Pressure Advance / K-factor) in the slicer; check part cooling fan speed. |
+| **Dimensional inaccuracies in openGrid/Gridfinity** | Flow rate / XY shrinkage | Calibrate filament flow dynamics (Pressure Advance / K-factor) in the slicer; check part cooling fan speed. |
 
 ---
 

@@ -31,7 +31,7 @@ The **Bambu X2D** is an advanced, dual-extrusion 3D printer built specifically f
 * **Best Practice:** Always preheat the chamber for 15–20 minutes before starting engineering prints.
 
 ### 3. Hotend & Nozzle Options
-* **0.4 mm Hardened Steel:** Standard all-rounder. Great for detailed Gridfinity bins, Multiboard snaps, and general parts.
+* **0.4 mm Hardened Steel:** Standard all-rounder. Great for detailed Gridfinity bins, openGrid snaps, and general parts.
 * **0.6 mm Hardened Steel:** Recommended for carbon-fiber (CF) or glass-fiber (GF) filled materials (e.g., PA6-CF, PA12-CF, ABS-GF). The wider bore drastically reduces fiber clogging and wear.
 
 ---

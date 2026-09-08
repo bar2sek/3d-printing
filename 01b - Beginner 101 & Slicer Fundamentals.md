@@ -65,7 +65,7 @@ When you import an object into Bambu Studio, you control how it is built. Here a
 ```
 * **Walls = Strength:** The vertical shells that make up the outer boundary of your part.
   * *Decorative / desk toys:* 2 walls.
-  * *Functional organizers ([[03 - Phase 1 - Desk Organization (Gridfinity & Multiboard)|Gridfinity/Multiboard]]):* 3 to 4 walls.
+  * *Functional organizers ([[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)|Gridfinity/openGrid]]):* 3 to 4 walls.
   * *Heavy-duty garage brackets ([[04 - Phase 2 - Garage & Workshop Tool Organization|Phase 2]]):* 5 to 6 walls.
 * **Infill = Internal Support & Weight:** Infill only supports the ceiling of your part and adds modest stiffness. **Increasing walls from 2 to 4 adds dramatically more strength than increasing infill from 20% to 60%!**
 

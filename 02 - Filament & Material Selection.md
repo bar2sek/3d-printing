@@ -34,12 +34,12 @@ Choosing the right material prevents failed prints and ensures your finished par
 
 ### 1. PLA (Polylactic Acid) / PLA+
 * **Overview:** The undisputed king of ease-of-use. Stiff, crisp details, zero warp, and wide color availability.
-* **Why use it for Desk Setup:** Perfect for [[03 - Phase 1 - Desk Organization (Gridfinity & Multiboard)#Gridfinity Basics|Gridfinity bins]] and drawer bases where temperature is climate-controlled and impact forces are negligible.
+* **Why use it for Desk Setup:** Perfect for [[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)#Gridfinity Basics|Gridfinity bins]] and drawer bases where temperature is climate-controlled and impact forces are negligible.
 * **Limitation:** Glass transition temperature is ~55°C. **Never use PLA in a hot car or uninsulated garage in summer**, as parts will soften and sag under load.
 
 ### 2. PETG (Polyethylene Terephthalate Glycol)
 * **Overview:** More flexible and impact-resistant than PLA, with higher temperature tolerance (~75°C).
-* **Why use it:** Great for desktop [[03 - Phase 1 - Desk Organization (Gridfinity & Multiboard)#Multiboard System|Multiboard tiles]] and snap-fit accessories that need a little flex without snapping.
+* **Why use it:** Great for desktop [[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)#Level 2 openGrid Islands for French Cleats|openGrid tiles]] and snap-fit accessories that need a little flex without snapping.
 
 ### 3. Flexible & Footwear Polymers (TPU 95A, 85A & Foaming TPU)
 * **Overview:** Elastic, rubber-like thermoplastic polyurethanes with extreme abrasion resistance and tear strength.
@@ -86,4 +86,4 @@ graph TD
 
 ---
 
-**Next Step:** See [[03 - Phase 1 - Desk Organization (Gridfinity & Multiboard)]] to start printing your first batch of modular organizers.
+**Next Step:** See [[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)]] to start printing your first batch of modular organizers.

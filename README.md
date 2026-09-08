@@ -4,7 +4,7 @@ date: 2026-09-07
 tags:
   - 3d-printing
   - bambu-x2d
-  - multiboard
+  - opengrid
   - gridfinity
   - cleats
   - hub
@@ -19,7 +19,7 @@ aliases:
 [![Obsidian](https://img.shields.io/badge/Obsidian-Vault-purple.svg)](https://obsidian.md)
 [![Hardware](https://img.shields.io/badge/Hardware-Bambu%20X2D%20Dual--Nozzle-00AE42.svg)](01%20-%20Bambu%20X2D%20Hardware%20%26%20Setup.md)
 [![Infrastructure](https://img.shields.io/badge/Macro%20Rails-3%2F4%22%20French%20Cleats-brown.svg)](04%20-%20Phase%202%20-%20Garage%20%26%20Workshop%20Tool%20Organization.md)
-[![Tooling Grid](https://img.shields.io/badge/Micro%20Grids-Multiboard%20%2B%20Gridfinity-blue.svg)](03%20-%20Phase%201%20-%20Desk%20Organization%20%28Gridfinity%20%26%20Multiboard%29.md)
+[![Tooling Grid](https://img.shields.io/badge/Micro%20Grids-openGrid%20%2B%20Gridfinity-blue.svg)](03%20-%20Phase%201%20-%20Desk%20Organization%20%28Gridfinity%20%26%20openGrid%29.md)
 [![Peripherals](https://img.shields.io/badge/Keyboard-ZSA%20Voyager%20%280.2mm%29-orange.svg)](10%20-%20Precision%20Printing%20%26%20ZSA%20Voyager%20Keycaps%20%280.2mm%20Nozzle%29.md)
 [![Wearables](https://img.shields.io/badge/Footwear-TPU%2095A%20%26%20Foam-red.svg)](09%20-%203D%20Printed%20Footwear%20%28Sneakers%2C%20Clogs%20%26%20TPU%29.md)
 
@@ -42,16 +42,16 @@ The vault is structured around a multi-tier engineering hierarchy that eliminate
                    │ (Hang via 3D Cleat Clips)          │ (Hang Heavy Caddies)
                    ▼                                    ▼
 ┌───────────────────────────────────┐ ┌────────────────────────────────────┐
-│   Level 2: Multiboard Islands     │ │   Milwaukee M18 & M12 Storage      │
-│   (Removable wall tool clusters)  │ │   (Drills, saws, grinders, packs)  │
-│   Sanded birch backers, cam-locks │ │   Printed in ASA & EZ PA Nylon     │
+│    Level 2: openGrid Islands      │ │   Milwaukee M18 & M12 Storage      │
+│    (28mm Grid, Multiconnect)      │ │   (Drills, saws, grinders, packs)  │
+│    Sanded birch backers, cam-locks│ │   Printed in ASA & EZ PA Nylon     │
 └──────────────────┬────────────────┘ └────────────────────────────────────┘
-                   │ (Standardized 25mm Grid)
+                   │ (84mm Harmonic Bridge: 3x openGrid = 2x Gridfinity)
                    ▼
 ┌──────────────────────────────────────────────────────────────────────────┐
 │              Level 3 (Micro): The "Golden Duo" Sub-Grids                 │
 │  • Drawers & Trays: Gridfinity (42mm open standard, Zack Freedman)       │
-│  • Under-Desk Routing: Underware on Inverted Multiboard Tiles (25mm)     │
+│  • Under-Desk Routing: Underware for openGrid on Inverted Tiles (28mm)   │
 │    "Screw once" foundation: zero furniture damage when gear changes.     │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
@@ -97,7 +97,7 @@ The vault is structured around a multi-tier engineering hierarchy that eliminate
 | **[[01a - Bambu X2D Buyer's Guide & Purchase Checklist]]** | Procurement | Standalone vs Combo analysis, Day 1 TCO budget, shopping cart, and delivery checklist. |
 | **[[01b - Beginner 101 & Slicer Fundamentals]]** | Slicer Manual | Slicer pipeline, Gyroid vs Grid infill traps, tree supports, and first-day unboxing guide. |
 | **[[02 - Filament & Material Selection]]** | Materials Guide | PLA vs PETG vs ASA vs Nylon vs TPU comparison matrix, drying temps, and HDT limits. |
-| **[[03 - Phase 1 - Desk Organization (Gridfinity & Multiboard)]]** | Architecture Guide | The Three-Tier Stack, Multiboard French Cleat Islands, Underware on Multiboard. |
+| **[[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)]]** | Architecture Guide | The Three-Tier Stack, openGrid French Cleat Islands, Underware for openGrid. |
 | **[[04 - Phase 2 - Garage & Workshop Tool Organization]]** | Shop Engineering | 4x8 Birch cut plan, 3.5" story sticks, Milwaukee tool ergonomics, ASA printing rules. |
 | **[[05 - X2D Dual Extrusion & Support Workflow]]** | Dual-Nozzle Guide | Multi-material bonding, zero-gap support interfaces (`Support for ABS`), flush legends. |
 | **[[06 - Print Troubleshooting & Maintenance]]** | Diagnostic Manual | Moisture checks, first-layer warping cures, Dawn dish soap cleaning, carbon rod care. |
