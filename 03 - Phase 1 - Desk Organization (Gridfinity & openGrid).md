@@ -64,9 +64,34 @@ After extensive community testing and evolution, **openGrid** (created by David 
 
 ---
 
-## 🧱 Level 2: openGrid Islands for French Cleats
+## 📏 openGrid Profile Guide: "Full" vs. "Lite"
 
-Instead of screwing openGrid tiles directly into drywall with plastic anchors (which damages walls and bows under heavy loads), we mount them as **rigid, removable cleat-hung islands**.
+openGrid is distributed in two core tile profiles:
+
+| Application Zone | Recommended Profile | Recommended Filament | Rationale & Load Profile |
+| :--- | :--- | :--- | :--- |
+| **Under-Desk (Underware)** | **Lite** | **PETG Basic** | Cables and power bricks apply distributed tension downward. Lite cuts print time by ~30% and uses significantly less spool weight. |
+| **Desk Drawers** | **Lite** | **PLA / PETG** | The drawer floor and perimeter walls provide 100% of structural support; the grid only stops bins from sliding laterally. |
+| **Wall Cleat Cartridges (Office)** | **Full** ⭐ | **Matte Black PETG / PETG-CF** | Cantilevered tool hooks and headphones pull **outward** with high leverage. Full features reinforced perimeters and thick screw bosses, resisting flex during repeated Multiconnect snap insertions. |
+| **Garage Workshop Walls** | **Full** (Mandatory) | **ASA** | Steel tools, drills, and hammers demand maximum shear and wall thickness. |
+
+> [!TIP]
+> **Plywood Backer Advantage:** If mounting openGrid to a **1/2" Baltic Birch backer board**, the wood acts as an anvil. While **Lite** *can* support lightweight office stationary when backed by plywood, **Full** provides the definitive, rock-solid feel with zero snap-fit flex.
+
+---
+
+## 🧱 Level 2: openGrid Islands & Cartridges for French Cleats
+
+Instead of screwing openGrid tiles directly into drywall with plastic anchors (which damages walls and bows under heavy loads), we deploy two mounting strategies:
+
+### Strategy A: The Plywood "Grid Cartridge" (Recommended for Multi-Tile Arrays)
+Mounting openGrid to a **1/2" Baltic Birch substrate** with a top 45° cleat runner creates an indestructible, portable toolboard:
+* **Mechanical Anvil:** Completely eliminates tile bowing when snapping tight Multiconnect clips in and out.
+* **Mobility:** Pick up the entire 18x12 or 21"x21" tool cartridge off the office cleat rail and hang it on the garage cleat rail or lay it flat on the desk.
+* **Sizing Math:** Size plywood to 28mm cell harmonics: $\text{Size} = (N \times 28\text{ mm}) + (2 \times \text{Border Margin})$.
+* **Fasteners:** Fasten openGrid Full tiles to the plywood using **#6 x 1/2" Pan-Head Wood Screws** through openGrid's countersunk mounting holes.
+
+### Strategy B: Direct Dual-Cleat 3D-Printed Brackets (For Single / Mini Clusters)
 
 ```
               DUAL-CLEAT openGrid ISLAND (Zero Wobble)
@@ -90,7 +115,7 @@ Instead of screwing openGrid tiles directly into drywall with plastic anchors (w
                                 |         \==+==================+      in accessories!
 ```
 
-### 1. The 3 Essential Hardware Components for openGrid Islands
+### 1. Hardware Components for Direct Cleat Mounts
 1. **Dual-Cleat Backer Brackets ($6.5"$ / $168\text{ mm}$ Span):**
    * With a 3" cleat and 3.5" clear gap, row spacing is **$6.5"$ center-to-center ($165.1\text{ mm}$)**.
    * Six openGrid 28mm units span **$168\text{ mm}$ ($6 \times 28\text{ mm}$)**. A 3D-printed cleat bracket with slight vertical slot tolerance ($1.5\text{ mm}$) locks directly across two consecutive cleats.
@@ -101,13 +126,16 @@ Instead of screwing openGrid tiles directly into drywall with plastic anchors (w
    * In an office, you frequently pull items upward (e.g., lifting headphones or pulling a charging cable). A simple printed cam-lock or M4 thumbscrew under the upper cleat hook locks the island securely so it cannot accidentally jump off the rail.
 
 ### 2. Office Aesthetics: Blending Wood & Tech
-* Sand your 3/4" Birch cleats to 220 grit, apply a slight 1/8" roundover on exposed edges, and finish with a clear satin polyurethane or hardwax oil (e.g., Rubio Monocoat / Osmo).
-* Pair with matte black or charcoal grey PETG openGrid tiles for a clean, Scandinavian modern studio aesthetic.
+* Sand your 3/4" Birch cleats to 220 grit, apply a slight 1/8" roundover on exposed edges, and finish with a clear satin polyurethane or hardwax oil (e.g., *Osmo Polyx-Oil 3043*).
+* Pair with **Matte Black PETG** (or **PETG-CF**) openGrid tiles to match the whole-house black accent rule and eliminate lighting glare.
 
-### 3. Recommended openGrid Slicer Settings
-* **Filament:** **PETG** (provides elasticity so Multiconnect snap clips and locking tabs never shear).
-* **Walls / Perimeters:** **3 walls**.
-* **Infill:** `15%–20% Gyroid`.
+### 3. Slicer Settings by Material & Zone
+
+| Zone / Application | Material | Walls / Perimeters | Infill | Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| **Office Underware / Drawers** | **PETG Basic (Lite)** | `3 walls` | `15% Gyroid` | Elastic snap-fit; fast print |
+| **Office Wall Cleat Cartridge** | **Matte Black PETG (Full)** | `4 walls` | `20% Gyroid` | High torsional stiffness; zero glare |
+| **Garage Workshop Toolboard** | **ASA (Full)** | `4–6 walls` | `25% Gyroid` | Heat deflection ~100°C; zero summer creep |
 
 ---
 

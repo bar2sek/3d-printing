@@ -40,7 +40,8 @@ Choosing the right material prevents failed prints and ensures your finished par
 ### 2. PETG (Polyethylene Terephthalate Glycol) — Bambu PETG Basic
 * **Overview:** More flexible and impact-resistant than PLA, with higher temperature tolerance (~75°C) and superior creep resistance under constant load.
 * **Bambu Formulation Note:** Bambu Lab phased out their older *PETG-HF* (High Flow) and replaced it with a reformulated **PETG Basic**. The reformulated PETG Basic dramatically enhances Z-axis layer bonding, tensile strength, and impact resistance—making it substantially superior for snap-fit latches and structural brackets.
-* **Why use it:** Essential for desktop [[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)#Level 2 openGrid Islands for French Cleats|openGrid tiles]], Multiconnect snap clips, and [[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)#Level 3 Underware for openGrid Under-Desk Cable Management|Underware cable raceways]] that need mechanical toughness and long-term elasticity without snapping.
+* **Why use it:** Essential for climate-controlled office organization: [[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)#Level 2 openGrid Islands for French Cleats|openGrid tiles]], Multiconnect snap clips, and [[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)#Level 3 Underware for openGrid Under-Desk Cable Management|Underware cable raceways]]. Deploy **Lite** profile for under-desk routing/drawers and **Full** profile for wall cleat cartridges.
+* **Garage Limitation:** In unconditioned summer garages (reaching 50°C–60°C under hot car engine dissipation), PETG can slowly experience **thermal creep** under continuous heavy cantilevered tool weight. Use **ASA** for garage walls instead.
 
 ### 3. Flexible & Footwear Polymers (TPU 95A, 85A & Foaming TPU)
 * **Overview:** Elastic, rubber-like thermoplastic polyurethanes with extreme abrasion resistance and tear strength.
@@ -59,7 +60,8 @@ Choosing the right material prevents failed prints and ensures your finished par
 ### 2. ASA (Acrylonitrile Styrene Acrylate)
 * **Status:** The premier outdoor and garage workhorse.
 * **Strengths:** Full UV resistance (won’t turn brittle or yellow in sunlight), high heat resistance (~100°C), and high mechanical rigidity.
-* **Ideal Garage Use:** Heavy pegboard hooks, power-strip wall brackets, garden tool mounts, and battery charging cradles.
+* **Ideal Garage Use:** Heavy pegboard hooks, power-strip wall brackets, garden tool mounts, battery charging cradles, and **all garage openGrid wall tiles (Full profile)** to guarantee zero summer sag.
+* **Bambu X2D Printing Advantage:** Printed effortlessly using the X2D's 65°C heated chamber with `Support for ABS` in the secondary nozzle for zero-gap breakaway support surfaces.
 
 ### 3. PC-ABS (Polycarbonate / ABS Blend)
 * **Status:** Industrial impact resistance without the extreme printing difficulty of pure PC.

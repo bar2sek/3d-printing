@@ -16,30 +16,35 @@ When moving from desk organizers to garage tool hanging, the mechanical and envi
 
 ---
 
-## ☀️ The Garage Environment: Why PLA Fails
+## ☀️ The Garage Environment: Why PLA & PETG Struggle
 
 ```mermaid
 graph TD
-    A["Garage Factors: Summer Heat (45°C+), Sunlight, Heavy Steel Tools"] --> B{"Using PLA?"}
-    B -->|Yes| C["❌ Creep & Sag under tool weight<br>❌ Brittle snap on impact<br>❌ UV degradation"]
-    B -->|No - Using ASA / EZ PA / PC-ABS| D["✅ Rigid under high temps<br>✅ High shock absorption<br>✅ Lifetime UV stability"]
+    A["Garage Factors: Summer Heat (50°C–60°C), UV Sunlight, Heavy Static Torque"] --> B{"Material Choice"}
+    B -->|PLA| C["❌ Catastrophic Failure: Softens at 55°C, fast thermal creep, brittle snap"]
+    B -->|PETG| D["⚠️ Summer Sag: Glass transition ~75°C, creeps under continuous static tool loads"]
+    B -->|ASA / PC-ABS| E["✅ Zero Creep: HDT ~100°C, lifetime UV impervious, petroleum resistant"]
 ```
 
-1. **Thermal Creep:** In a closed summer garage, ambient temperatures can exceed 45°C–50°C. PLA begins to soften at ~55°C and will slowly bend ("creep") under the weight of a drill or hammer until it drops.
-2. **Impact & Vibration:** Steel tools repeatedly dropped into plastic clips will shatter brittle plastics.
-3. **UV & Chemical Exposure:** Sunlight through open garage doors degrades standard polymers. Garage prints also encounter motor oil, WD-40, and brake cleaner.
+1. **Midwest Garage Heatwaves (Thermal Creep):** In a closed Midwestern summer garage with hot cars parked inside radiating engine heat, ambient temperatures frequently reach **120°F–140°F (50°C–60°C)**.
+   * **PLA:** Softens at ~55°C; under the weight of a heavy drill or hammer, it droops and drops tools within weeks.
+   * **PETG:** While fine in climate-controlled offices, PETG under **continuous static cantilever load** (e.g. heavy power tool hooks or cleat brackets) experiences subtle long-term **thermal creep** during peak summer heat waves.
+   * **ASA (Acrylonitrile Styrene Acrylate):** Heat Deflection Temperature is **~95°C–100°C**. It will never droop, sag, or soften under summer heat.
+2. **UV Exposure (Open Garage Doors):** Sun exposure through open overhead doors degrades PETG over time. ASA is chemically engineered for automotive exterior trim and is **100% UV-impervious**—it will never fade, yellow, or embrittle.
+3. **Chemical & Solvent Resistance:** Garage tools introduce WD-40, brake cleaner, and motor oil. ASA has high resilience against hydrocarbon oils.
 
 ---
 
 ## 🎯 Material Strategy for Tool Storage
 
-| Application | Recommended Filament | Key Property |
+| Application | Recommended Filament | Key Property & Profile |
 | :--- | :--- | :--- |
-| **Cordless Tool Hangers (Drills, Grinders)** | **PC-ABS** or **ASA** | High rigidity, handles continuous static torque load |
+| **openGrid Workshop Wall Tiles** | **ASA (Full)** ⭐ | **Full profile only** (maximum wall thickness); HDT ~100°C; zero summer sag |
+| **Cordless Tool Hangers (Drills, Grinders)** | **PC-ABS** or **ASA** | High rigidity, handles continuous static cantilever torque |
 | **Snap-in Wrench/Plier Clips & Living Hinges** | **EZ PA (Nylon)** | High toughness, flexible without fatigue, oil-resistant |
-| **Wall Tiles, Pegboards & French Cleats** | **ASA** | UV-proof, zero summer sag (HDT ~100°C) |
+| **French Cleat Brackets & Heavy Rails** | **ASA** | High shear strength, tight mechanical dimensional stability |
 | **Battery Mounts & Locking Cradles** | **EZ PA** or **PC-ABS** | Smooth wear resistance, tight snap-retention tabs |
-| **Soft Tool Liners & Mallet Bumpers** | **TPU 95A** | Non-marring flexible cushion |
+| **Soft Tool Liners & Mallet Bumpers** | **TPU 95A** | Non-marring flexible cushion (feed externally via 4-in-1 PTFE) |
 
 ---
 
