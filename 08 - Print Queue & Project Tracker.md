@@ -83,6 +83,15 @@ See [[03 - Phase 1 - Desk Organization (Gridfinity & openGrid)]] for system deta
 - [ ] **openGrid Clamping Power Brick Cradles** (Custom-fit dual-arm clamps for laptop chargers).
 - [ ] **Under-Desk Dock & USB Hub Sleds** (PETG, 4 walls, passive airflow clearance).
 
+#### Office Acoustic Wall & Bike Gear Station (House DIY Integration)
+*Architecture:* `house-diy/office/Office Acoustic Treatment & Workstation Upgrade.md`
+- [ ] **Sonolok 21mm Outlet Depth Extension Collars** (Black PETG, flush faceplate fit).
+- [ ] **Slat-Lock Cam Brackets** (Matte Black PETG-CF, non-destructive clip-in to Sonolok slats).
+- [ ] **Aero Cycling Helmet Wall Cradles** (Matte Black PETG-CF, fits French cleat rail).
+- [ ] **Cycling Shoe Cleat Docks** (Look Keo & Shimano SPD-SL 3-bolt / SPD 2-bolt retention).
+- [ ] **Optics & Sunglasses Magnetic Dock** (Matte Black PETG-CF, dual-pair shelf).
+- [ ] **openGrid Ride-Prep Cartridge Tiles** (Full profile Matte Black PETG, 28mm cells).
+
 ---
 
 ### 🛠️ Tier 2: Phase 2 Workshop & Garage Tool Storage
