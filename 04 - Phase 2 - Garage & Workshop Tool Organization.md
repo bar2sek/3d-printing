@@ -189,15 +189,37 @@ flowchart TD
 * **Storage Protocol:** Stored vertically folded against the garage wall. Secured via a heavy-duty 3D-printed **ASA cleat strap anchor & cam-buckle bracket** bolted to the top cleat rail to eliminate any tipping hazard.
 * *Battery Rotation:* Utilizes two M18 High Output packs (8.0Ah / 12.0Ah) that rotate into shop saws during winter.
 
-### 10. NEXUS™ Dedicated Filter Cleaner (`R44AP253100559B`) & Debris Separator
+### 10. M18 5" Random Orbit Sander (`2648-20`)
+* **Chassis & Speed:** 7,000–12,000 OPM, 5" hook-and-loop pad, dust canister port.
+* **Mounting Style:** **Inverted Waist Saddle & Disc Magazine**. Supports the sander body securely, with an integrated 4-tier disc dispenser for 8-hole 5" sanding discs (80, 120, 150, 220 grit) and a vacuum hose clip.
+* *Filament:* **Bambu ASA** (4 walls, 25% Gyroid infill).
+
+### 11. M18 4-1/2" - 5" Cut-Off Grinder (`2686-20`)
+* **Chassis & Spindle:** 11,000 RPM, 5/8"-11 spindle, cast metal gearcase.
+* **Mounting Style:** **Neck Collar Yoke Bracket**. Cradles the metal gearbox neck just behind the spindle flange with clearance for wheel guard and side handle. Includes captive slot for the spanner wrench.
+* *Filament:* **Bambu ASA** (6 walls, 40% Gyroid infill for high static cantilever torque).
+
+### 12. M12 FUEL 2" Hand Planer (`2524-20`)
+* **Chassis & Speed:** 14,500 RPM, 2" dual-blade cutterhead.
+* **Mounting Style:** **Sole-Plate Shoe Cradle**. Supports the front shoe with clearance for the kickstand, ensuring blades never touch plastic or wall.
+* *Filament:* **Bambu ASA** (4 walls, 30% Gyroid).
+
+### 13. M12 3/8" Crown Stapler T50 (`2447-20`)
+* **Fastener:** T50 staples 1/4" to 9/16".
+* **Mounting Style:** **Belt-Clip Dock & Staple Box Rack**. Low-profile hanging bracket with a bottom shelf holding three boxes of T50 staples.
+* *Filament:* **Bambu ASA** (4 walls, 25% Gyroid).
+
+### 14. NEXUS™ Dedicated Filter Cleaner (`R44AP...`) & Debris Separator
 * **Function:** Enclosed cartridge filter cleaner and cyclonic debris separator for the Packout 6-Gallon Wet/Dry Vacuum.
 * **Mounting Style:** 3D-printed **ASA retention cleats** mounted to a 12" Baltic Birch shelf dock adjacent to the dust collection vac station.
 * *Filament:* **Bambu ASA** (4 walls, 25% Gyroid).
 
-### 7. M18 & M12 Battery Docks & Rapid Chargers
-* **M18 Batteries:** Multi-bay horizontal rail with **EZ PA (Nylon)** retention spring tabs that click into the battery side clips.
-* **M12 Batteries:** Cylindrical 3-pack or 4-pack honeycomb caddy that accepts the M12 stalk contacts.
-* **M18/M12 Rapid Charger Bracket:** Cleat mount featuring a **1/2" air standoff gap** behind the charger for convective heat dissipation during fast charging cycles.
+### 15. Battery Docks & Charging: The FORGE™ 12.0 Expansion
+* **M18 FORGE 12.0Ah Heavy-Duty Docks (2x):**
+  * *Weight & Dimension:* ~3.3 lbs each, wider body than standard XC packs.
+  * *Mounting:* Reinforced ASA dual-bay cleat rail with **6 walls and 40% Gyroid infill**, with 20mm extra lateral finger clearance for the side latches.
+* **General Battery Rails:** Multi-bay horizontal rail with **EZ PA (Nylon)** spring retention tabs for standard M18 XC and M12 packs.
+* **M18/M12 Rapid Charger Bracket:** Cleat mount featuring a **1/2" convective air gap** behind the charger for passive thermal dissipation.
 
 ---
 

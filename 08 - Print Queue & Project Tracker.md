@@ -120,7 +120,11 @@ See [[04 - Phase 2 - Garage & Workshop Tool Organization]] for engineering rules
 - [ ] **M18 FUEL 21" Mower (`2823-20`) Vertical Wall Tether Anchor** (ASA, cam-buckle cleat bracket to secure folded mower against OSB wall).
 - [ ] **NEXUS Dust Management Hose & Wand Cleat Caddy** (ASA, holds 2-1/2" and 1-7/8" hoses + extension wands).
 - [ ] **NEXUS Dedicated Filter Cleaner (`R44AP...`) Cleat Shelf Retainers** (ASA, corner locator brackets for 12" Baltic Birch shelf).
-- [ ] **M18 Angle Grinder Spindle Neck Collar** (PC-ABS / ASA, clears wheel guard & side handle).
+- [ ] **M18 5" Random Orbit Sander (`2648-20`) Waist Saddle & 4-Tier Disc Dispenser** (ASA, holds sander + stacks of 80/120/150/220 grit 5" discs + hose adapter clip).
+- [ ] **M18 4-1/2" - 5" Cut-Off Grinder (`2686-20`) Gearbox Neck Collar Yoke** (ASA, 6 walls, clears guard/handle + captive spanner slot).
+- [ ] **M12 FUEL 2" Hand Planer (`2524-20`) Sole-Plate Shoe Cradle** (ASA, kickstand clearance pocket to protect carbide blades).
+- [ ] **M12 3/8" Crown Stapler T50 (`2447-20`) Belt-Clip Dock & Staple Shelf** (ASA, holds tool + 3 boxes of T50 staples).
+- [ ] **M18 FORGE™ 12.0Ah Heavy-Duty Dual-Bay Cleat Dock (2x)** (ASA, 6 walls, 40% Gyroid, extra 20mm finger latch spacing for 3.3 lb packs).
 - [ ] **M18 4-Bay Battery Locking Cleat Strip** (ASA frame + EZ PA Nylon spring retention tabs).
 - [ ] **M12 4-Bay Cylindrical Honeycomb Battery Caddy** (Deep terminal-protecting sockets).
 - [ ] **M18/M12 Dual Rapid Charger Cleat Mount** (1/2" convective air gap + cord wrap).
