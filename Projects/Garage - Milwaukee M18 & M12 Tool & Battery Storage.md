@@ -134,6 +134,10 @@ flowchart TD
 - [ ] **Print 9:** M18 Multi-Tool (`2626-20`) Inverted Saddle & 4-Tier Blade Rack.
 - [ ] **Print 10:** M12 ROVER™ Flood Light (`2350-20`) Magnetic Cleat Strike Dock.
 - [ ] **Print 11:** M18 ROVER™ Clamping Flood Light (`2358-20`) Simulated 2x4 Framing Cleat Horn.
+- [ ] **Print 12:** M18™ Precision Blower (`0887-20`) Inverted Cleat Holster & Nozzle Dock.
+- [ ] **Print 13:** M18 FUEL QUIK-LOK™ 8" Edger (`49-16-2718`) Vertical Cleat Clamp & Blade Guard.
+- [ ] **Print 14:** M18 FUEL QUIK-LOK™ String Trimmer (`49-16-2717`) Vertical Cleat Clamp.
+- [ ] **Print 15:** PACKOUT™ Large Wall Plate (`48-22-8497`) Multi-Rail Cleat Adapter Brackets.
 
 ---
 

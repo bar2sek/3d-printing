@@ -229,7 +229,22 @@ flowchart TD
 * **Mounting Style:** **Simulated 2x4 Framing Cleat Horn**. Sturdy 1-1/2" x 3" ASA block mounted on a French cleat tab, giving the heavy spring clamp a dedicated bite point above the MATCHFIT workbench.
 * *Filament:* **Bambu ASA** (5 walls, 35% Gyroid).
 
-### 18. Battery Cleat Rails & Charging Infrastructure (15 Packs • 1.36 kWh)
+### 18. M18™ Precision Compact Blower (`0887-20`)
+* **Airflow & Features:** 100 CFM, 160 MPH, 3-speed variable trigger, lock-on switch.
+* **Mounting Style:** **Inverted Nozzle Holster & Extension Dock**. Holds blower nose-down by its body collar with side clips for the flexible rubber extension nozzle and inflator attachments.
+* *Filament:* **Bambu ASA** (4 walls, 30% Gyroid).
+
+### 19. M18 FUEL QUIK-LOK™ Vertical Shaft Snap-Collar Clamps (`49-16-2718` & `49-16-2717`)
+* **Mechanics:** Compliant C-shaped ASA snap ring engineered with a living hinge spring to grip the standard 1" aluminum shaft.
+* **Mounting Style:** Suspends both the 8" Edger and String Trimmer vertically along the garage wall, keeping cutting heads off the floor and blades shielded.
+* *Filament:* **Bambu ASA** (5 walls, 35% Gyroid infill).
+
+### 20. PACKOUT™ Large Wall Plate (`48-22-8497`) Cleat Adapter Brackets
+* **Footprint & Rating:** 30.75" W x 20.75" H, 150 lbs rated.
+* **Mounting Style:** **Dual-Rail French Cleat Adapter**. Two heavy-duty ASA cleat brackets (or Baltic Birch cleat bars) bolted to the plate's metal-reinforced mounting points, spanning across 4 cleat rails (19.5" vertical span). Allows the full 30" plate to hang or relocate modularly anywhere on the wall.
+* *Filament:* **Bambu ASA** (6 walls, 40% Gyroid).
+
+### 21. Battery Cleat Rails & Charging Infrastructure (15 Packs • 1.36 kWh)
 * **Rail 1 (Heavy FORGE™ & HO Rail — 4 Bays):**
   * *Packs:* 2x FORGE 12.0Ah, 1x FORGE 8.0Ah, 1x HO 6.0Ah.
   * *Engineering:* Reinforced ASA rail with **6 walls and 40% Gyroid infill**, with **+20mm lateral spacing** between bays for finger latch clearance.
