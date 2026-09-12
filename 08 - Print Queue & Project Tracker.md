@@ -106,8 +106,12 @@ See [[04 - Phase 2 - Garage & Workshop Tool Organization]] for engineering rules
 - [ ] **French Cleat to openGrid Adapter Brackets** (Mounts openGrid tiles to cleats).
 
 #### 🔴 Milwaukee FUEL M18 & M12 Tool Storage System
-*Project Log:* [[Garage - Milwaukee M18 & M12 Tool & Battery Storage]]
-- [ ] **M18 Hammer Drill & Impact Driver Dual Slide Dock** (ASA, inverted battery foot channels).
+*Ecosystem Blueprint:* [[../garage-tooling/Milwaukee Tool Ecosystem|Milwaukee Tool Ecosystem: Inventory, Cleat Docks & Packout Integration]]
+- [ ] **M18 FUEL Gen 4 Hammer Drill (`2904-20`) & Impact Driver (`2953-20`) Dual Slide Dock** (ASA, inverted battery foot channels with 28mm side-handle clearance & magnetic bit slots).
+- [ ] **M18 Gen 4 Drill/Impact Pair 2-Tool Mobile Packout Insert** (PETG, contoured drop-in cradle for middle Packout drawer).
+- [ ] **Milwaukee 18" Hybrid Fan (`0821-20`) Oversized Cleat Hooks** (ASA, tubular frame cradles for wall stowage when detached from Air Filter Cart).
+- [ ] **M18 FUEL 21" Mower (`2823-20`) Vertical Wall Tether Anchor** (ASA, cam-buckle cleat bracket to secure folded mower against OSB wall).
+- [ ] **NEXUS Dedicated Filter Cleaner (`R44AP...`) Cleat Shelf Retainers** (ASA, corner locator brackets for 12" Baltic Birch shelf).
 - [ ] **M12 Circular Saw Baseplate Shoe Bracket** (ASA, enclosed blade safety slot).
 - [ ] **M18 Angle Grinder Spindle Neck Collar** (PC-ABS / ASA, clears wheel guard & side handle).
 - [ ] **M18 FUEL Sawzall Two-Piece Horizontal Cradle** (ASA, front boot & rear D-handle saddles).
@@ -123,7 +127,7 @@ See [[04 - Phase 2 - Garage & Workshop Tool Organization]] for engineering rules
   - [ ] 2x Baseplates for 2-Drawer (`#48-22-8442`) — 4 snap-fit quadrants per drawer (PETG).
   - [ ] 1x Baseplate for 1-Drawer Wheeled Dolly Base — 4 snap-fit quadrants (PETG).
 - [ ] **Top Shallow Drawer 6U Bins** (Digital caliper tray, router collet rack, hex bit blocks).
-- [ ] **Middle Drawer 11U Bins** (Electrical strippers, crimpers, WAGO compartment trays).
+- [ ] **Middle Drawer 11U Bins** (Drill/impact mobile cradle, electrical strippers, crimpers, WAGO compartment trays).
 - [ ] **Deep Drawer 15U/16U Bins** (High-capacity fastener bins for GRK cabinet screws, pocket screws).
 
 #### 🚲 Back Wall Bike Shop Station (`bike-shop` synergy)
