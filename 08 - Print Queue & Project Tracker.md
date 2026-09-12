@@ -115,6 +115,17 @@ See [[04 - Phase 2 - Garage & Workshop Tool Organization]] for engineering rules
 - [ ] **M12 4-Bay Cylindrical Honeycomb Battery Caddy** (Deep terminal-protecting sockets).
 - [ ] **M18/M12 Dual Rapid Charger Cleat Mount** (1/2" convective air gap + cord wrap).
 
+#### 🗄️ Milwaukee Packout & Gridfinity Integration
+*Project Log:* [[04 - Phase 2 - Garage & Workshop Tool Organization#Milwaukee Packout & Gridfinity Workshop Integration|Packout Integration]]
+- [ ] **French Cleat to Packout Wall Mount Adapters** (Heavy ASA dual-cleat hooks to mount Packout wall plates).
+- [ ] **Packout Drawer Gridfinity Baseplates (42mm)** (PETG, sectioned for Bambu build plate to fit Packout drawer footprint).
+- [ ] **Precision Micro-Tool Bins (Gridfinity)** (Caliper cradle, router collet rack, hex bit index).
+- [ ] **Hardware Organizer Bins (Gridfinity)** (Labelled compartmental bins for GRK cabinet screws, WAGO clips).
+
+#### 🚲 Back Wall Bike Shop Station (`bike-shop` synergy)
+- [ ] **700c Disc Wheelset Cleat Hangers** (ASA wall cradles holding wheels flat by rim/axle).
+- [ ] **2" Hitch Bike Rack Wall Cleat Dock** (Heavy-duty reinforced ASA cradle + steel sleeve for 1UP/Kuat rack).
+
 ---
 
 ### 👟 Tier 3: 3D Printed Footwear & Wearables (TPU & Foaming TPU)

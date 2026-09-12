@@ -167,6 +167,37 @@ flowchart TD
 
 ---
 
+## 🗄️ Milwaukee Packout & Gridfinity Workshop Integration
+
+Bridging Milwaukee Packout drawers and wall mounts with the French cleat infrastructure:
+
+```mermaid
+graph LR
+    Cleats["3/4 in Baltic Birch Cleats<br/>(Wall Backbone)"] --> Adapter["Packout Cleat Adapters<br/>(Mounts Packout plates to cleats)"]
+    Adapter --> WallBoxes["Packout Drawers & Toolboxes<br/>(Docked at bench height)"]
+    WallBoxes --> Drawers["In-Drawer 42mm Gridfinity<br/>(Modular bins for hardware & bits)"]
+    Cleats --> Bike["Back Wall Bike Station<br/>(700c wheelset hooks & 2 in hitch dock)"]
+```
+
+### 1. French Cleat to Packout Wall Mount Adapters
+* Fasten standard Milwaukee Packout Wall Mounting Plates onto **3/4" Baltic Birch cleat backers** or print heavy-duty **ASA cleat hooks**.
+* Spanning two cleats ($6.5"$ center-to-center) eliminates tilt and supports the full static load of loaded Packout drawers.
+* **Mobility:** Drawers dock securely above the workbench during shop work, and detach in seconds to load into your truck.
+
+### 2. In-Drawer Gridfinity for Packout Drawers (Benchtop De-Clutter)
+* **Drop-in Baseplates:** Print 42mm Gridfinity baseplate grids matched to Packout 2-drawer / 3-drawer interior dimensions.
+* **Filament:** **PETG** or **ASA** (PETG is ideal for interior drawers protected from direct sunlight).
+* **Tray Specialization:**
+  * *Top Drawer (Micro Tools):* Calipers, router collets, screwdriver bits, hex keys, precision measuring gauges.
+  * *Middle Drawer (Electrical & Assembly):* Wire strippers, ratcheting crimpers, WAGO connectors, heat shrink, multimeters.
+  * *Bottom Drawer (Fasteners & Hardware):* Bins for GRK cabinet screws, pocket screws, drywall anchors, machine bolts, and washers.
+
+### 3. Back Wall Bike Shop Station (`bike-shop` synergy)
+* **700c Disc Wheelset Wall Hangers:** 3D-printed **ASA** wall cradles holding spare gravel/road wheelsets by the rim or thru-axle, keeping them flat against the wall.
+* **2" Hitch Bike Rack Wall Dock:** Heavy-duty French cleat mount holding a **2" square receiver tube** (ASA reinforced with 1/2" grade-8 through-bolts or steel sleeve) to store your heavy aluminum hitch bike rack up off the concrete floor.
+
+---
+
 ## 🧰 Step-by-Step Project Logs
 * Detailed cutting diagrams and universal cleat adapters: [[Garage - Modular French Cleat Tool System]]
 * Milwaukee tool models, slice profiles, and CAD sources: [[Garage - Milwaukee M18 & M12 Tool & Battery Storage]]
