@@ -142,23 +142,26 @@ flowchart TD
     M18 --> CHARG["Dual Rapid Charger<br>(Wall cleat with 1/2' thermal standoff)"]
 ```
 
-### 1. M18 FUEL Hammer Drill & Impact Driver
+### 1. M18 FUEL Gen 4 Hammer Drill (`2904-20`) & Impact Driver (`2953-20`)
 * **Weight Profile:** 6 to 8 lbs each with an XC 5.0 or High Output 6.0Ah battery.
-* **Mounting Style:** **Inverted Battery-Foot Slide Docks** mounted directly beneath a French cleat shelf, or **Vertical Side Holsters**. The tool slides in via the battery rails; the motor hangs securely below.
-* *Filament:* **ASA** (5 walls, 35% Gyroid infill).
+* **Mounting Style:** **Inverted Battery-Foot Slide Docks** mounted directly beneath a French cleat shelf or as modular dual-rail wall cleats. The tool slides in via the battery rails; the motor hangs securely below. Includes 28mm lateral clearance for the `2904-20` AutoStop drill's side handle collar and belt clips.
+* *Filament:* **Bambu ASA** (5 walls, 35% Gyroid infill, side-oriented slicing).
+* *Mobile Work:* Drop-in 2-tool contoured Gridfinity insert for the middle drawer of the Packout stack.
 
-### 2. M12 Circular Saw (5-3/8" / 5-1/2")
-* **Mounting Style:** **Baseplate Shoe Slot Bracket**. A custom cleat caddy holds the stamped aluminum baseplate horizontally, keeping the blade safely enclosed and recessed away from accidental contact.
-* *Filament:* **ASA** (4 walls, 30% Gyroid).
+### 2. Milwaukee 18" Hybrid Fan (`0821-20`)
+* **Airflow & Power:** 2,840 CFM, dual M18 / 120V AC hybrid.
+* **Mounting Style:** Dual-purpose: docks into captive stops on the [[../garage-tooling/Shop Air Filter Cart|Shop Air Filter Cart]] for whole-shop MERV 14 air scrubbing, or hangs from an oversized **ASA dual-hook cleat bracket** when stored flat against the back wall.
+* *Filament:* **Bambu ASA** (5 walls, 30% Gyroid).
 
-### 3. M18 Angle Grinder (4-1/2" / 5")
-* **Challenge:** Heavy cast-aluminum head, protruding wheel guard, and auxiliary handle.
-* **Mounting Style:** **Neck Collar Cradle**. A semi-circular U-yoke supports the metal gearbox neck just behind the spindle, allowing the grinder to hang vertically with the guard and handle attached.
-* *Filament:* **PC-ABS** or **ASA** (6 walls, 40% Gyroid infill for high static torque).
+### 3. M18 FUEL 21" Self-Propelled Mower (`2823-20`) & High Output Batteries
+* **Chassis:** 36V dual-M18 platform (>55 lbs).
+* **Storage Protocol:** Stored vertically folded against the garage wall. Secured via a heavy-duty 3D-printed **ASA cleat strap anchor & cam-buckle bracket** bolted to the top cleat rail to eliminate any tipping hazard.
+* *Battery Rotation:* Utilizes two M18 High Output packs (8.0Ah / 12.0Ah) that rotate into shop saws during winter.
 
-### 4. M18 FUEL Sawzall (Reciprocating Saw)
-* **Mounting Style:** **Dual-Point Horizontal Cradle**. Supports the front rubber nose boot on one bracket and cradles the rear D-handle on a second bracket. Keeps the long blade flat against the wall.
-* *Filament:* **ASA** (5 walls, 30% Gyroid).
+### 4. NEXUS™ Dedicated Filter Cleaner (`R44AP253100559B`)
+* **Function:** Enclosed cartridge filter cleaner for HEPA dust extractors and shop vacuums.
+* **Mounting Style:** 3D-printed **ASA retention cleats** mounted to a 12" Baltic Birch shelf dock adjacent to the dust collection vac station.
+* *Filament:* **Bambu ASA** (4 walls, 25% Gyroid).
 
 ### 5. M18 & M12 Battery Docks & Rapid Chargers
 * **M18 Batteries:** Multi-bay horizontal rail with **EZ PA (Nylon)** retention spring tabs that click into the battery side clips.
