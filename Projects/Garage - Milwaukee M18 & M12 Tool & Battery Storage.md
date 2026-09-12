@@ -76,27 +76,32 @@ Custom-engineered heavy-duty storage brackets for the **Milwaukee FUEL M18 & M12
 ## 🔋 Battery Storage & Rapid Charger Brackets
 
 ```mermaid
-flowchart LR
-    A[Milwaukee Power Hub] --> B["M18 4-Bay Locking Cleat Strip<br>(EZ PA Nylon spring retention tabs)"]
-    A --> C["M12 4-Bay Cylindrical Caddy<br>(Triple-cell honeycomb sockets)"]
-    A --> D["M18/M12 Dual Rapid Charger Mount<br>(1/2' thermal standoff + cord spool)"]
+flowchart TD
+    Hub["Milwaukee Power & Charging Hub (13 Packs • 1.31 kWh Total)"]
+    Hub --> R1["Rail 1: Heavy FORGE™ & HO Cleat Rail (4 Bays)<br>(2x FORGE 12.0 • 1x FORGE 8.0 • 1x HO 6.0 | +20mm latch spacing)"]
+    Hub --> R2["Rail 2: Workhorse M18 XC 5.0 Cleat Rail (5 Bays)<br>(5x XC 5.0Ah dedicated eye-level slide channel)"]
+    Hub --> R3["Rail 3: M18 Slim & M12 HO Combo Caddy (4 Bays)<br>(2x M18 1.5Ah slide docks • 2x M12 HO 5.0 stalk sockets + 2 expansion)"]
+    Hub --> Chg["Dual M18/M12 Rapid Charger Cleat Mount<br>(1/2' convective thermal chimney standoff + cord wrap)"]
 ```
 
-### 1. M18 4-Bay Battery Locking Cleat Strip
-* **Capacity:** Holds four M18 batteries (fits all sizes: CP 2.0 up to High Output 12.0Ah).
-* **Retention Mechanism:** Uses **EZ PA (Nylon)** locking tabs that catch the battery's dual side push-clips with an audible, satisfying *click*. Pressing the red battery release buttons allows smooth one-handed extraction.
-* **Wall Angle:** Mounted at a $15^\circ$ upward tilt on the French cleat to prevent gravity creep.
+### 1. Rail 1: M18 FORGE™ & High Output Heavy-Duty Cleat Rail (4 Bays)
+* **Capacity & Fleet:** 2x FORGE 12.0Ah (`48-11-1813`), 1x FORGE 8.0Ah (`48-11-1881`), 1x High Output 6.0Ah (`48-11-1865`).
+* **Engineering & Print Specs:** Bambu ASA, 6 perimeters, 40% Gyroid infill. Incorporates an extended **+20mm lateral spacing** between docks to accommodate wide-body FORGE housings and ensure unobstructed finger access to the side latches.
 
-### 2. M12 4-Bay Cylindrical Honeycomb Caddy
-* **Capacity:** Holds four M12 batteries (CP 1.5/2.0/3.0 or XC 4.0/6.0).
-* **Design:** Deep cylindrical sockets that protect the exposed copper terminal contacts from metallic shop dust and metal shavings.
+### 2. Rail 2: M18 XC 5.0Ah Workhorse Bank (5 Bays)
+* **Capacity & Fleet:** 5x M18 REDLITHIUM™ XC 5.0Ah (`48-11-1850`).
+* **Retention Mechanism:** Continuous inverted dual-rail slide channels with spring retention tabs. Positioned at eye-level above the workbench for fast grabbing during daily builds.
 
-### 3. M18 & M12 Dual Rapid Charger Wall Cleat
-* **Thermal Management:** Fast chargers generate significant heat during high-amp charging cycles.
+### 3. Rail 3: M18 Slim & M12 High Output Combo Cleat Caddy (4 Bays)
+* **Capacity & Fleet:** 2x M18 Compact 1.5Ah (`48-11-1815`) + 2x M12 High Output XC 5.0Ah (`48-11-2450`) + 2 open expansion bays.
+* **Design:** Slide channels for M18 slim packs paired with vertical cylindrical stalk sockets featuring raised dust-seal perimeter lips to protect M12 copper blade contacts from airborne workshop debris.
+
+### 4. M18 & M12 Dual Rapid Charger Wall Cleat
+* **Thermal Management:** Fast charging 12.0Ah and 8.0Ah packs generates substantial heat.
 * **Design Features:**
-  * **1/2" Air Standoff:** Holds the charger away from the wall to allow convective airflow through the bottom cooling slots.
-  * **Integrated Cord Spool:** Wraps excess 6-foot heavy power cord neatly behind the unit.
-  * **Snap-Keyhole Anchors:** Matches the factory rear mounting keyholes on the underside of the charger.
+  * **1/2" (13mm) Air Standoff:** Convective thermal chimney spacing off the Baltic Birch backer prevents charger thermal throttling.
+  * **Integrated Cord Spool:** Wraps excess heavy 6 ft cable cleanly out of sight.
+  * **Snap-Keyhole Anchors:** Matches the factory underside keyhole geometry for positive wall locking.
 
 ---
 
@@ -119,12 +124,13 @@ flowchart LR
 ## 📋 Production Queue & Checklist
 
 - [ ] **Print 1:** M18 Drill & Impact Driver Dual French Cleat Slide Dock.
-- [ ] **Print 2:** M18 4-Bay Battery Locking Cleat Strip (Test EZ PA Nylon tabs).
-- [ ] **Print 3:** M12 4-Bay Honeycomb Battery Caddy.
-- [ ] **Print 4:** M18 Angle Grinder Spindle Neck Collar.
-- [ ] **Print 5:** M12 Circular Saw Baseplate Shoe Slot Bracket.
-- [ ] **Print 6:** M18 FUEL Sawzall Two-Piece Horizontal Cradle.
-- [ ] **Print 7:** M18/M12 Rapid Charger Cleat Mount with Thermal Air Gap.
+- [ ] **Print 2:** Rail 1 — M18 Heavy FORGE & HO Cleat Rail (4-Bay, +20mm spacing, ASA, 6 walls).
+- [ ] **Print 3:** Rail 2 — M18 XC 5.0Ah Workhorse Cleat Rail (5-Bay inverted slide channel).
+- [ ] **Print 4:** Rail 3 — M18 Slim (2-Bay) & M12 HO Honeycomb Stalk Socket Combo Cleat Caddy (4-Bay total).
+- [ ] **Print 5:** M18 & M12 Rapid Charger Cleat Mount with 1/2" Thermal Convection Gap & Cord Spool.
+- [ ] **Print 6:** M18 Angle Grinder Spindle Neck Collar & Spanner Slot.
+- [ ] **Print 7:** M12 Circular Saw Baseplate Shoe Slot Bracket.
+- [ ] **Print 8:** M18 FUEL Sawzall Two-Piece Horizontal Cradle.
 
 ---
 

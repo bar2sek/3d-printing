@@ -124,10 +124,10 @@ See [[04 - Phase 2 - Garage & Workshop Tool Organization]] for engineering rules
 - [ ] **M18 4-1/2" - 5" Cut-Off Grinder (`2686-20`) Gearbox Neck Collar Yoke** (ASA, 6 walls, clears guard/handle + captive spanner slot).
 - [ ] **M12 FUEL 2" Hand Planer (`2524-20`) Sole-Plate Shoe Cradle** (ASA, kickstand clearance pocket to protect carbide blades).
 - [ ] **M12 3/8" Crown Stapler T50 (`2447-20`) Belt-Clip Dock & Staple Shelf** (ASA, holds tool + 3 boxes of T50 staples).
-- [ ] **M18 FORGE™ 12.0Ah Heavy-Duty Dual-Bay Cleat Dock (2x)** (ASA, 6 walls, 40% Gyroid, extra 20mm finger latch spacing for 3.3 lb packs).
-- [ ] **M18 4-Bay Battery Locking Cleat Strip** (ASA frame + EZ PA Nylon spring retention tabs).
-- [ ] **M12 4-Bay Cylindrical Honeycomb Battery Caddy** (Deep terminal-protecting sockets).
-- [ ] **M18/M12 Dual Rapid Charger Cleat Mount** (1/2" convective air gap + cord wrap).
+- [ ] **Rail 1: M18 FORGE™ & High Output Heavy-Duty Cleat Rail (4 Bays)** (ASA, 6 walls, 40% Gyroid; holds 2x FORGE 12.0, 1x FORGE 8.0, 1x HO 6.0 with +20mm finger latch spacing).
+- [ ] **Rail 2: M18 XC 5.0 Workhorse Cleat Rail (5 Bays)** (ASA, dedicated 5-bay inverted slide channel for 5x XC 5.0).
+- [ ] **Rail 3: M18 Slim & M12 High Output Combo Cleat Caddy (4 Bays)** (ASA/Nylon, inverted slide docks for 2x M18 Compact 1.5 + dust-lipped stalk sockets for 2x M12 HO 5.0 & 2 expansion slots).
+- [ ] **M18/M12 Dual Rapid Charger Cleat Mount** (ASA, 1/2" convective air chimney standoff + integrated cord wrap).
 
 #### 🗄️ Milwaukee Packout & Gridfinity Integration
 *Project Log:* [[04 - Phase 2 - Garage & Workshop Tool Organization#Milwaukee Packout & Gridfinity Workshop Integration|Packout Integration]]
