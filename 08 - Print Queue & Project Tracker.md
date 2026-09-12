@@ -106,7 +106,7 @@ See [[04 - Phase 2 - Garage & Workshop Tool Organization]] for engineering rules
 - [ ] **French Cleat to openGrid Adapter Brackets** (Mounts openGrid tiles to cleats).
 
 #### 🔴 Milwaukee FUEL M18 & M12 Tool Storage System
-*Ecosystem Blueprint:* [[../garage-tooling/Milwaukee Tool Ecosystem|Milwaukee Tool Ecosystem: Inventory, Cleat Docks & Packout Integration]]
+*Ecosystem Blueprint:* `garage-tooling/Milwaukee Tool Ecosystem.md`
 - [ ] **M18 FUEL Gen 4 Hammer Drill (`2904-20`) & Impact Driver (`2953-20`) Dual Slide Dock** (ASA, inverted battery foot channels with 28mm side-handle clearance & magnetic bit slots).
 - [ ] **M18 Gen 4 Drill/Impact Pair 2-Tool Mobile Packout Insert** (PETG, contoured drop-in cradle for middle Packout drawer).
 - [ ] **M18 Compact Drill (`2606-20`) & Impact (`2656-20`) Dual Inverted Bench Cleat Dock** (ASA, dedicated secondary bench station for pilot drilling/countersinking).
