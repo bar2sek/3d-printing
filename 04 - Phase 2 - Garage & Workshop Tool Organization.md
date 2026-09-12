@@ -148,22 +148,33 @@ flowchart TD
 * *Filament:* **Bambu ASA** (5 walls, 35% Gyroid infill, side-oriented slicing).
 * *Mobile Work:* Drop-in 2-tool contoured Gridfinity insert for the middle drawer of the Packout stack.
 
-### 2. Milwaukee 18" Hybrid Fan (`0821-20`)
+### 2. M12 FUEL 5-3/8" Circular Saw (`2521-20`)
+* **Chassis & Blade:** 3,850 RPM, 5-3/8" blade, 1-5/8" cut depth (full 2x lumber single-pass).
+* **Mounting Style:** **Baseplate Shoe Slot Bracket**. A custom cleat caddy cradles the stamped aluminum baseplate horizontally, keeping the blade safely recessed in an enclosed protective channel away from contact.
+* *Filament:* **Bambu ASA** (4 walls, 30% Gyroid infill).
+* *Mobile Work:* Drop-in contoured foam/Gridfinity tray in the deep bottom drawer of the Packout stack.
+
+### 3. M12 FUEL Jig Saw (`2545-20`)
+* **Stroke & Action:** 800–3,000 SPM, tool-less T-shank clamp, 4-position orbital action.
+* **Mounting Style:** **Shoe Saddle Cleat Bracket**. Drops onto a low-profile ASA bracket with an integrated front blade guard and a 5-slot T-shank blade organizer in the faceplate.
+* *Filament:* **Bambu ASA** (4 walls, 30% Gyroid infill).
+
+### 4. Milwaukee 18" Hybrid Fan (`0821-20`)
 * **Airflow & Power:** 2,840 CFM, dual M18 / 120V AC hybrid.
 * **Mounting Style:** Dual-purpose: docks into captive stops on the [[../garage-tooling/Shop Air Filter Cart|Shop Air Filter Cart]] for whole-shop MERV 14 air scrubbing, or hangs from an oversized **ASA dual-hook cleat bracket** when stored flat against the back wall.
 * *Filament:* **Bambu ASA** (5 walls, 30% Gyroid).
 
-### 3. M18 FUEL 21" Self-Propelled Mower (`2823-20`) & High Output Batteries
+### 5. M18 FUEL 21" Self-Propelled Mower (`2823-20`) & High Output Batteries
 * **Chassis:** 36V dual-M18 platform (>55 lbs).
 * **Storage Protocol:** Stored vertically folded against the garage wall. Secured via a heavy-duty 3D-printed **ASA cleat strap anchor & cam-buckle bracket** bolted to the top cleat rail to eliminate any tipping hazard.
 * *Battery Rotation:* Utilizes two M18 High Output packs (8.0Ah / 12.0Ah) that rotate into shop saws during winter.
 
-### 4. NEXUS™ Dedicated Filter Cleaner (`R44AP253100559B`)
-* **Function:** Enclosed cartridge filter cleaner for HEPA dust extractors and shop vacuums.
+### 6. NEXUS™ Dedicated Filter Cleaner (`R44AP253100559B`) & Debris Separator
+* **Function:** Enclosed cartridge filter cleaner and cyclonic debris separator for the Packout 6-Gallon Wet/Dry Vacuum.
 * **Mounting Style:** 3D-printed **ASA retention cleats** mounted to a 12" Baltic Birch shelf dock adjacent to the dust collection vac station.
 * *Filament:* **Bambu ASA** (4 walls, 25% Gyroid).
 
-### 5. M18 & M12 Battery Docks & Rapid Chargers
+### 7. M18 & M12 Battery Docks & Rapid Chargers
 * **M18 Batteries:** Multi-bay horizontal rail with **EZ PA (Nylon)** retention spring tabs that click into the battery side clips.
 * **M12 Batteries:** Cylindrical 3-pack or 4-pack honeycomb caddy that accepts the M12 stalk contacts.
 * **M18/M12 Rapid Charger Bracket:** Cleat mount featuring a **1/2" air standoff gap** behind the charger for convective heat dissipation during fast charging cycles.

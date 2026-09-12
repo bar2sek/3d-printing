@@ -109,10 +109,13 @@ See [[04 - Phase 2 - Garage & Workshop Tool Organization]] for engineering rules
 *Ecosystem Blueprint:* [[../garage-tooling/Milwaukee Tool Ecosystem|Milwaukee Tool Ecosystem: Inventory, Cleat Docks & Packout Integration]]
 - [ ] **M18 FUEL Gen 4 Hammer Drill (`2904-20`) & Impact Driver (`2953-20`) Dual Slide Dock** (ASA, inverted battery foot channels with 28mm side-handle clearance & magnetic bit slots).
 - [ ] **M18 Gen 4 Drill/Impact Pair 2-Tool Mobile Packout Insert** (PETG, contoured drop-in cradle for middle Packout drawer).
+- [ ] **M12 FUEL 5-3/8" Circular Saw (`2521-20`) Baseplate Shoe Bracket** (ASA, enclosed blade safety channel).
+- [ ] **M12 FUEL Jig Saw (`2545-20`) Shoe Saddle & Blade Caddy** (ASA, cleat bracket with 5-slot T-shank blade holder).
+- [ ] **M18 FUEL 8-1/4" Table Saw (`2736-20`) Push Stick & Riving Knife Cleat Dock** (ASA, mounts directly on wall above saw stand).
 - [ ] **Milwaukee 18" Hybrid Fan (`0821-20`) Oversized Cleat Hooks** (ASA, tubular frame cradles for wall stowage when detached from Air Filter Cart).
 - [ ] **M18 FUEL 21" Mower (`2823-20`) Vertical Wall Tether Anchor** (ASA, cam-buckle cleat bracket to secure folded mower against OSB wall).
+- [ ] **NEXUS Dust Management Hose & Wand Cleat Caddy** (ASA, holds 2-1/2" and 1-7/8" hoses + extension wands).
 - [ ] **NEXUS Dedicated Filter Cleaner (`R44AP...`) Cleat Shelf Retainers** (ASA, corner locator brackets for 12" Baltic Birch shelf).
-- [ ] **M12 Circular Saw Baseplate Shoe Bracket** (ASA, enclosed blade safety slot).
 - [ ] **M18 Angle Grinder Spindle Neck Collar** (PC-ABS / ASA, clears wheel guard & side handle).
 - [ ] **M18 FUEL Sawzall Two-Piece Horizontal Cradle** (ASA, front boot & rear D-handle saddles).
 - [ ] **M18 4-Bay Battery Locking Cleat Strip** (ASA frame + EZ PA Nylon spring retention tabs).
