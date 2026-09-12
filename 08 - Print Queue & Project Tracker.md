@@ -128,6 +128,7 @@ See [[04 - Phase 2 - Garage & Workshop Tool Organization]] for engineering rules
 - [ ] **M12 ROVER™ Flood Light (`2350-20`) Magnetic Cleat Strike Dock** (ASA + embedded 3mm steel strike plate for instant magnetic mount).
 - [ ] **M18 ROVER™ Clamping Flood Light (`2358-20`) Simulated 2x4 Framing Cleat Horn** (ASA, 5 walls, 35% Gyroid, dedicated clamp post).
 - [ ] **M18™ Precision Blower (`0887-20`) Inverted Cleat Holster & Nozzle Dock** (ASA, holds blower + nozzle extension).
+- [ ] **M18 FUEL™ Power Head (`2825-20`) D-Handle & Coupler Cleat Saddle** (ASA, 5 walls, vertical stowage).
 - [ ] **M18 FUEL QUIK-LOK™ 8" Edger Attachment (`49-16-2718`) Vertical Cleat Clamp** (ASA, 1" shaft snap-ring + blade guard).
 - [ ] **M18 FUEL QUIK-LOK™ String Trimmer Attachment (`49-16-2717`) Vertical Cleat Clamp** (ASA, 1" shaft snap-ring).
 - [ ] **Rail 1: M18 FORGE™ & High Output Heavy-Duty Cleat Rail (4 Bays)** (ASA, 6 walls, 40% Gyroid; holds 2x FORGE 12.0, 1x FORGE 8.0, 1x HO 6.0 with +20mm finger latch spacing).
