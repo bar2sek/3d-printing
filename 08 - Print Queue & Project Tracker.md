@@ -118,9 +118,13 @@ See [[04 - Phase 2 - Garage & Workshop Tool Organization]] for engineering rules
 #### 🗄️ Milwaukee Packout & Gridfinity Integration
 *Project Log:* [[04 - Phase 2 - Garage & Workshop Tool Organization#Milwaukee Packout & Gridfinity Workshop Integration|Packout Integration]]
 - [ ] **French Cleat to Packout Wall Mount Adapters** (Heavy ASA dual-cleat hooks to mount Packout wall plates).
-- [ ] **Packout Drawer Gridfinity Baseplates (42mm)** (PETG, sectioned for Bambu build plate to fit Packout drawer footprint).
-- [ ] **Precision Micro-Tool Bins (Gridfinity)** (Caliper cradle, router collet rack, hex bit index).
-- [ ] **Hardware Organizer Bins (Gridfinity)** (Labelled compartmental bins for GRK cabinet screws, WAGO clips).
+- [ ] **Packout 9x7 Gridfinity Baseplates (6 Drawers Total)**:
+  - [ ] 3x Baseplates for Multi-Depth 3-Drawer (`#48-22-8447`) — 4 snap-fit quadrants per drawer (PETG).
+  - [ ] 2x Baseplates for 2-Drawer (`#48-22-8442`) — 4 snap-fit quadrants per drawer (PETG).
+  - [ ] 1x Baseplate for 1-Drawer Wheeled Dolly Base — 4 snap-fit quadrants (PETG).
+- [ ] **Top Shallow Drawer 6U Bins** (Digital caliper tray, router collet rack, hex bit blocks).
+- [ ] **Middle Drawer 11U Bins** (Electrical strippers, crimpers, WAGO compartment trays).
+- [ ] **Deep Drawer 15U/16U Bins** (High-capacity fastener bins for GRK cabinet screws, pocket screws).
 
 #### 🚲 Back Wall Bike Shop Station (`bike-shop` synergy)
 - [ ] **700c Disc Wheelset Cleat Hangers** (ASA wall cradles holding wheels flat by rim/axle).

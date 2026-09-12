@@ -185,12 +185,25 @@ graph LR
 * **Mobility:** Drawers dock securely above the workbench during shop work, and detach in seconds to load into your truck.
 
 ### 2. In-Drawer Gridfinity for Packout Drawers (Benchtop De-Clutter)
-* **Drop-in Baseplates:** Print 42mm Gridfinity baseplate grids matched to Packout 2-drawer / 3-drawer interior dimensions.
-* **Filament:** **PETG** or **ASA** (PETG is ideal for interior drawers protected from direct sunlight).
-* **Tray Specialization:**
-  * *Top Drawer (Micro Tools):* Calipers, router collets, screwdriver bits, hex keys, precision measuring gauges.
-  * *Middle Drawer (Electrical & Assembly):* Wire strippers, ratcheting crimpers, WAGO connectors, heat shrink, multimeters.
-  * *Bottom Drawer (Fasteners & Hardware):* Bins for GRK cabinet screws, pocket screws, drywall anchors, machine bolts, and washers.
+* **Drawer Stack Inventory (Surveyed):**
+  1. **Multi-Depth 3-Drawer Tool Box (`#48-22-8447`):** Uneven drawer depths (shallow top, medium middle, deep bottom).
+  2. **2-Drawer Tool Box (`#48-22-8442`):** Two deep identical drawers ($\approx 5"$ usable height each).
+  3. **One-Drawer Wheeled Dolly Base:** Deep single drawer on heavy-duty rolling casters.
+* **The 9x7 Gridfinity Matrix (63 Cells per Drawer):**
+  * **Interior Drawer Footprint:** $\approx 16.3" \text{ W} \times 12.5" \text{ D}$ ($414\text{ mm} \times 318\text{ mm}$).
+  * **Cell Layout:** **$9\text{ units wide} \times 7\text{ units deep} = \mathbf{63\text{ modular cells}}$** ($378\text{ mm} \times 294\text{ mm}$ active grid $+ 18\text{ mm}$ perimeter side lips to prevent sliding).
+  * **Bambu Slicing ($256 \times 256\text{ mm}$ Bed):** Each drawer baseplate is printed in **4 interlocking snap-fit quadrants** (e.g. $5\times 4, 4\times 4, 5\times 3, 4\times 3$).
+* **Filament Choice:** **Bambu PETG Basic** (or PETG-CF for high rigidity). UV is shielded inside drawers; PETG provides smooth drop-in gliding and impact resistance.
+* **Vertical Height ($U$) Allocation by Drawer:**
+  * **Shallow Top Drawer (3-Drawer, $\approx 2.3"$ height):**
+    * *Max Bin Height:* **$6U$ ($42\text{ mm}$)**.
+    * *Contents:* Precision digital calipers, router collets/wrenches, screwdriver bit blocks, hex keys, utility knife blades.
+  * **Medium Middle Drawer (3-Drawer, $\approx 3.5"$ height):**
+    * *Max Bin Height:* **$11U$ ($77\text{ mm}$)**.
+    * *Contents:* Electrical strippers, ratcheting crimpers, WAGO connector sorting bins, heat shrink assortment, multimeters.
+  * **Deep Drawers (3-Drawer Bottom, 2-Drawer & 1-Drawer Dolly, $\approx 4.7"–5.2"$ height):**
+    * *Max Bin Height:* **$15U$ to $16U$ ($105\text{ mm}–112\text{ mm}$)**.
+    * *Contents:* High-capacity fastener bins (GRK structural screws, pocket screws, drywall anchors), impact socket stands, hole saws, and cordless M12 bare tools.
 
 ### 3. Back Wall Bike Shop Station (`bike-shop` synergy)
 * **700c Disc Wheelset Wall Hangers:** 3D-printed **ASA** wall cradles holding spare gravel/road wheelsets by the rim or thru-axle, keeping them flat against the wall.
