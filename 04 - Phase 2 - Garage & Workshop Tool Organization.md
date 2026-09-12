@@ -214,12 +214,32 @@ flowchart TD
 * **Mounting Style:** 3D-printed **ASA retention cleats** mounted to a 12" Baltic Birch shelf dock adjacent to the dust collection vac station.
 * *Filament:* **Bambu ASA** (4 walls, 25% Gyroid).
 
-### 15. Battery Docks & Charging: The FORGE™ 12.0 Expansion
-* **M18 FORGE 12.0Ah Heavy-Duty Docks (2x):**
-  * *Weight & Dimension:* ~3.3 lbs each, wider body than standard XC packs.
-  * *Mounting:* Reinforced ASA dual-bay cleat rail with **6 walls and 40% Gyroid infill**, with 20mm extra lateral finger clearance for the side latches.
-* **General Battery Rails:** Multi-bay horizontal rail with **EZ PA (Nylon)** spring retention tabs for standard M18 XC and M12 packs.
-* **M18/M12 Rapid Charger Bracket:** Cleat mount featuring a **1/2" convective air gap** behind the charger for passive thermal dissipation.
+### 15. M18 Multi-Tool (Oscillating Tool) (`2626-20`)
+* **Chassis & Speed:** 11,000–18,000 OPM, 12 speed settings, tool-free blade clamp.
+* **Mounting Style:** **Inverted Body Saddle & 4-Tier Blade Magazine**. Holds tool securely with nose guarded, accompanied by a 4-slot vertical organizer for wood plunge blades, bi-metal blades, scrapers, and sanding accessories.
+* *Filament:* **Bambu ASA** (5 walls, 35% Gyroid).
+
+### 16. M12 ROVER™ Multi-Directional Flood Light (`2350-20`)
+* **Output & Features:** 1,000 lumens, dual pivoting heads, integrated magnets, 2-1/8" spring clamp.
+* **Mounting Style:** **Magnetic Cleat Strike Plate Dock**. ASA cleat bracket with an embedded 3mm zinc-plated steel strike washer that mates with the Rover's internal magnets for instant grab-and-go access.
+* *Filament:* **Bambu ASA** (4 walls, 25% Gyroid).
+
+### 17. M18 ROVER™ Clamping Flood Light (`2358-20`)
+* **Output & Features:** 2,000 lumens, heavy-duty 3" clamp for lumber/pipes, 355° rotating head.
+* **Mounting Style:** **Simulated 2x4 Framing Cleat Horn**. Sturdy 1-1/2" x 3" ASA block mounted on a French cleat tab, giving the heavy spring clamp a dedicated bite point above the MATCHFIT workbench.
+* *Filament:* **Bambu ASA** (5 walls, 35% Gyroid).
+
+### 18. Battery Cleat Rails & Charging Infrastructure (15 Packs • 1.36 kWh)
+* **Rail 1 (Heavy FORGE™ & HO Rail — 4 Bays):**
+  * *Packs:* 2x FORGE 12.0Ah, 1x FORGE 8.0Ah, 1x HO 6.0Ah.
+  * *Engineering:* Reinforced ASA rail with **6 walls and 40% Gyroid infill**, with **+20mm lateral spacing** between bays for finger latch clearance.
+* **Rail 2 (Workhorse M18 XC 5.0 Bank — 5 Bays):**
+  * *Packs:* 5x M18 XC 5.0Ah.
+  * *Engineering:* Dedicated 5-bay inverted slide channel positioned at eye level above the workbench.
+* **Rail 3 (M18 Slim & M12 Fleet Combo Caddy — 6 Bays):**
+  * *Packs:* 2x M18 Compact 1.5Ah + 2x M12 HO 5.0Ah + 2x M12 Compact 2.0Ah.
+  * *Engineering:* Dual slide channels for M18 slim packs + 4 vertical cylindrical stalk sockets with raised dust-seal perimeter lips protecting M12 copper blade contacts.
+* **M18/M12 Rapid Charger Bracket:** Cleat mount featuring a **1/2" (13mm) convective chimney standoff** behind the charger for passive thermal dissipation.
 
 ---
 

@@ -77,10 +77,10 @@ Custom-engineered heavy-duty storage brackets for the **Milwaukee FUEL M18 & M12
 
 ```mermaid
 flowchart TD
-    Hub["Milwaukee Power & Charging Hub (13 Packs • 1.31 kWh Total)"]
+    Hub["Milwaukee Power & Charging Hub (15 Packs • 1.36 kWh Total)"]
     Hub --> R1["Rail 1: Heavy FORGE™ & HO Cleat Rail (4 Bays)<br>(2x FORGE 12.0 • 1x FORGE 8.0 • 1x HO 6.0 | +20mm latch spacing)"]
     Hub --> R2["Rail 2: Workhorse M18 XC 5.0 Cleat Rail (5 Bays)<br>(5x XC 5.0Ah dedicated eye-level slide channel)"]
-    Hub --> R3["Rail 3: M18 Slim & M12 HO Combo Caddy (4 Bays)<br>(2x M18 1.5Ah slide docks • 2x M12 HO 5.0 stalk sockets + 2 expansion)"]
+    Hub --> R3["Rail 3: M18 Slim & M12 Fleet Combo Caddy (6 Bays)<br>(2x M18 1.5Ah slide docks • 2x M12 HO 5.0 stalk sockets • 2x M12 2.0 sockets)"]
     Hub --> Chg["Dual M18/M12 Rapid Charger Cleat Mount<br>(1/2' convective thermal chimney standoff + cord wrap)"]
 ```
 
@@ -92,9 +92,9 @@ flowchart TD
 * **Capacity & Fleet:** 5x M18 REDLITHIUM™ XC 5.0Ah (`48-11-1850`).
 * **Retention Mechanism:** Continuous inverted dual-rail slide channels with spring retention tabs. Positioned at eye-level above the workbench for fast grabbing during daily builds.
 
-### 3. Rail 3: M18 Slim & M12 High Output Combo Cleat Caddy (4 Bays)
-* **Capacity & Fleet:** 2x M18 Compact 1.5Ah (`48-11-1815`) + 2x M12 High Output XC 5.0Ah (`48-11-2450`) + 2 open expansion bays.
-* **Design:** Slide channels for M18 slim packs paired with vertical cylindrical stalk sockets featuring raised dust-seal perimeter lips to protect M12 copper blade contacts from airborne workshop debris.
+### 3. Rail 3: M18 Slim & M12 Fleet Combo Cleat Caddy (6 Bays)
+* **Capacity & Fleet:** 2x M18 Compact 1.5Ah (`48-11-1815`) + 2x M12 High Output XC 5.0Ah (`48-11-2450`) + 2x M12 Compact 2.0Ah (`48-11-2420`).
+* **Design:** Slide channels for M18 slim packs paired with 4 vertical cylindrical stalk sockets featuring raised dust-seal perimeter lips to protect M12 copper blade contacts from airborne workshop debris.
 
 ### 4. M18 & M12 Dual Rapid Charger Wall Cleat
 * **Thermal Management:** Fast charging 12.0Ah and 8.0Ah packs generates substantial heat.
@@ -126,11 +126,14 @@ flowchart TD
 - [ ] **Print 1:** M18 Drill & Impact Driver Dual French Cleat Slide Dock.
 - [ ] **Print 2:** Rail 1 — M18 Heavy FORGE & HO Cleat Rail (4-Bay, +20mm spacing, ASA, 6 walls).
 - [ ] **Print 3:** Rail 2 — M18 XC 5.0Ah Workhorse Cleat Rail (5-Bay inverted slide channel).
-- [ ] **Print 4:** Rail 3 — M18 Slim (2-Bay) & M12 HO Honeycomb Stalk Socket Combo Cleat Caddy (4-Bay total).
+- [ ] **Print 4:** Rail 3 — M18 Slim & M12 Fleet Honeycomb Stalk Socket Combo Cleat Caddy (6-Bay total: 2x M18 1.5, 2x M12 5.0, 2x M12 2.0).
 - [ ] **Print 5:** M18 & M12 Rapid Charger Cleat Mount with 1/2" Thermal Convection Gap & Cord Spool.
 - [ ] **Print 6:** M18 Angle Grinder Spindle Neck Collar & Spanner Slot.
 - [ ] **Print 7:** M12 Circular Saw Baseplate Shoe Slot Bracket.
 - [ ] **Print 8:** M18 FUEL Sawzall Two-Piece Horizontal Cradle.
+- [ ] **Print 9:** M18 Multi-Tool (`2626-20`) Inverted Saddle & 4-Tier Blade Rack.
+- [ ] **Print 10:** M12 ROVER™ Flood Light (`2350-20`) Magnetic Cleat Strike Dock.
+- [ ] **Print 11:** M18 ROVER™ Clamping Flood Light (`2358-20`) Simulated 2x4 Framing Cleat Horn.
 
 ---
 
