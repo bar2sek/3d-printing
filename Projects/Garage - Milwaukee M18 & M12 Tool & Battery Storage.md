@@ -138,6 +138,8 @@ flowchart TD
 - [ ] **Print 13:** M18 FUEL QUIK-LOK™ 8" Edger (`49-16-2718`) Vertical Cleat Clamp & Blade Guard.
 - [ ] **Print 14:** M18 FUEL QUIK-LOK™ String Trimmer (`49-16-2717`) Vertical Cleat Clamp.
 - [ ] **Print 15:** PACKOUT™ Large Wall Plate (`48-22-8497`) Multi-Rail Cleat Adapter Brackets.
+- [ ] **Print 16:** M18 FUEL™ Power Head (`2825-20`) D-Handle & Coupler Cleat Saddle.
+- [ ] **Print 17:** M18 Dual-Bay Simultaneous Rapid Charger (`48-59-1802`) Convective Chimney Cleat Mount.
 
 ---
 
