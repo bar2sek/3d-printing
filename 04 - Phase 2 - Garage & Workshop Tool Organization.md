@@ -181,7 +181,7 @@ flowchart TD
 
 ### 8. Milwaukee 18" Hybrid Fan (`0821-20`)
 * **Airflow & Power:** 2,840 CFM, dual M18 / 120V AC hybrid.
-* **Mounting Style:** Dual-purpose: docks into captive stops on the [[../garage-tooling/Shop Air Filter Cart|Shop Air Filter Cart]] for whole-shop MERV 14 air scrubbing, or hangs from an oversized **ASA dual-hook cleat bracket** when stored flat against the back wall.
+* **Mounting Style:** Dual-purpose: docks into captive stops on the Shop Air Filter Cart (`garage-tooling/Shop Air Filter Cart.md`) for whole-shop MERV 14 air scrubbing, or hangs from an oversized **ASA dual-hook cleat bracket** when stored flat against the back wall.
 * *Filament:* **Bambu ASA** (5 walls, 30% Gyroid).
 
 ### 9. M18 FUEL 21" Self-Propelled Mower (`2823-20`) & High Output Batteries
