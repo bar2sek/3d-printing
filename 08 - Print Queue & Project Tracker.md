@@ -127,6 +127,9 @@ See [[04 - Phase 2 - Garage & Workshop Tool Organization]] for engineering rules
 - [ ] **M18 Multi-Tool (`2626-20`) Inverted Saddle & 4-Tier Blade Rack** (ASA, 5 walls, holds tool + plunge/bi-metal/scraper blades).
 - [ ] **M12 ROVER™ Flood Light (`2350-20`) Magnetic Cleat Strike Dock** (ASA + embedded 3mm steel strike plate for instant magnetic mount).
 - [ ] **M18 ROVER™ Clamping Flood Light (`2358-20`) Simulated 2x4 Framing Cleat Horn** (ASA, 5 walls, 35% Gyroid, dedicated clamp post).
+- [ ] **M18™ Precision Blower (`0887-20`) Inverted Cleat Holster & Nozzle Dock** (ASA, holds blower + nozzle extension).
+- [ ] **M18 FUEL QUIK-LOK™ 8" Edger Attachment (`49-16-2718`) Vertical Cleat Clamp** (ASA, 1" shaft snap-ring + blade guard).
+- [ ] **M18 FUEL QUIK-LOK™ String Trimmer Attachment (`49-16-2717`) Vertical Cleat Clamp** (ASA, 1" shaft snap-ring).
 - [ ] **Rail 1: M18 FORGE™ & High Output Heavy-Duty Cleat Rail (4 Bays)** (ASA, 6 walls, 40% Gyroid; holds 2x FORGE 12.0, 1x FORGE 8.0, 1x HO 6.0 with +20mm finger latch spacing).
 - [ ] **Rail 2: M18 XC 5.0 Workhorse Cleat Rail (5 Bays)** (ASA, dedicated 5-bay inverted slide channel for 5x XC 5.0).
 - [ ] **Rail 3: M18 Slim & M12 Fleet Combo Cleat Caddy (6 Bays)** (ASA/Nylon, inverted slide docks for 2x M18 Compact 1.5 + dust-lipped stalk sockets for 2x M12 HO 5.0 and 2x M12 Compact 2.0).
@@ -134,6 +137,7 @@ See [[04 - Phase 2 - Garage & Workshop Tool Organization]] for engineering rules
 
 #### 🗄️ Milwaukee Packout & Gridfinity Integration
 *Project Log:* [[04 - Phase 2 - Garage & Workshop Tool Organization#Milwaukee Packout & Gridfinity Workshop Integration|Packout Integration]]
+- [ ] **PACKOUT™ Large Wall Plate (`48-22-8497`) Multi-Rail Cleat Adapter Hooks** (Heavy ASA dual-cleat hooks spanning 4 rails).
 - [ ] **French Cleat to Packout Wall Mount Adapters** (Heavy ASA dual-cleat hooks to mount Packout wall plates).
 - [ ] **Packout 9x7 Gridfinity Baseplates (6 Drawers Total)**:
   - [ ] 3x Baseplates for Multi-Depth 3-Drawer (`#48-22-8447`) — 4 snap-fit quadrants per drawer (PETG).
