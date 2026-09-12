@@ -159,17 +159,37 @@ flowchart TD
 * **Mounting Style:** **Shoe Saddle Cleat Bracket**. Drops onto a low-profile ASA bracket with an integrated front blade guard and a 5-slot T-shank blade organizer in the faceplate.
 * *Filament:* **Bambu ASA** (4 walls, 30% Gyroid infill).
 
-### 4. Milwaukee 18" Hybrid Fan (`0821-20`)
+### 4. M12 FUEL 3" Compact Cut Off Tool (`2522-20`)
+* **Chassis & Speed:** 20,000 RPM, forward/reverse rotation, 3" cutting wheels (metal, carbide, diamond).
+* **Mounting Style:** **Snap-In Shoe Bracket & Wheel Cartridge**. Houses the tool body with dust shroud attached, with integrated side slots for 4 extra 3" wheels and the arbor hex wrench.
+* *Filament:* **Bambu ASA** (4 walls, 25% Gyroid infill).
+
+### 5. M18 FUEL 18 GA Brad Nailer (`2746-20`)
+* **Chassis & Weight:** 5.3 lbs (bare), nitrogen air spring cylinder.
+* **Mounting Style:** **Nose-Saddle Cleat Dock with Fastener Rack**. Supports the contact bracket safely without marring rubber tips. Features a 3-tier side rack holding boxes of 1-1/4", 1-1/2", and 2" 18-gauge brads.
+* *Filament:* **Bambu ASA** (5 walls, 35% Gyroid infill).
+
+### 6. M18 FUEL Sawzall Reciprocating Saw (`2821-20`)
+* **Stroke & Mechanics:** 3,000 SPM, 1-1/4" stroke, heavy-duty folding rafter hook.
+* **Mounting Style:** **Dual-Point Horizontal Cradle** or **Rafter Hook Cleat Bar**. Cradles front rubber overmold and rear D-handle, keeping the blade flat and covered.
+* *Filament:* **Bambu ASA** (5 walls, 30% Gyroid).
+
+### 7. M18 Compact Drill/Driver & Impact Pair (`2606-20` & `2656-20`)
+* **Role:** Dedicated benchtop secondary pair for pilot holes, countersinking, and quick assembly without bit swapping.
+* **Mounting Style:** Paired inverted battery slide docks positioned directly above the center workbench for instant reach.
+* *Filament:* **Bambu ASA** (4 walls, 30% Gyroid).
+
+### 8. Milwaukee 18" Hybrid Fan (`0821-20`)
 * **Airflow & Power:** 2,840 CFM, dual M18 / 120V AC hybrid.
 * **Mounting Style:** Dual-purpose: docks into captive stops on the [[../garage-tooling/Shop Air Filter Cart|Shop Air Filter Cart]] for whole-shop MERV 14 air scrubbing, or hangs from an oversized **ASA dual-hook cleat bracket** when stored flat against the back wall.
 * *Filament:* **Bambu ASA** (5 walls, 30% Gyroid).
 
-### 5. M18 FUEL 21" Self-Propelled Mower (`2823-20`) & High Output Batteries
+### 9. M18 FUEL 21" Self-Propelled Mower (`2823-20`) & High Output Batteries
 * **Chassis:** 36V dual-M18 platform (>55 lbs).
 * **Storage Protocol:** Stored vertically folded against the garage wall. Secured via a heavy-duty 3D-printed **ASA cleat strap anchor & cam-buckle bracket** bolted to the top cleat rail to eliminate any tipping hazard.
 * *Battery Rotation:* Utilizes two M18 High Output packs (8.0Ah / 12.0Ah) that rotate into shop saws during winter.
 
-### 6. NEXUS™ Dedicated Filter Cleaner (`R44AP253100559B`) & Debris Separator
+### 10. NEXUS™ Dedicated Filter Cleaner (`R44AP253100559B`) & Debris Separator
 * **Function:** Enclosed cartridge filter cleaner and cyclonic debris separator for the Packout 6-Gallon Wet/Dry Vacuum.
 * **Mounting Style:** 3D-printed **ASA retention cleats** mounted to a 12" Baltic Birch shelf dock adjacent to the dust collection vac station.
 * *Filament:* **Bambu ASA** (4 walls, 25% Gyroid).
