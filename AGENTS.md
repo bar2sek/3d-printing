@@ -129,7 +129,7 @@ To maximize knowledge transfer and keep the user actively engaged without causin
 ### C. Digital Manufacturing & Physical Shop (`3d-printing`)
 * **Bambu X2D Specs**: Dual independent hotends (300°C), heated chamber (65°C), zero-gap support interfaces (`Support for ABS` with ASA; PETG with PLA).
 * **Filament Routing**: Feed flexible TPU (95A / foaming) externally via 4-in-1 PTFE adapter on ball-bearing rollers (never through AMS).
-* **Workshop Hierarchy**: Level 1 French Cleats (3/4" Baltic Birch, 45° rails), Level 2 openGrid Islands (28mm), Level 3 Gridfinity (42mm) & Underware for openGrid.
+* **Workshop Hierarchy**: Level 1 French Cleats (3/4" Baltic Birch, 45° rails), Level 2 Multiboard Islands, Level 3 Gridfinity (42mm) & Underware.
 * **Project Documentation**: Log print builds in `Projects/` using `Templates/Template - Print Project Log.md`.
 
 ### D. Knowledge Base & Curriculum (`aws-learning`)
@@ -140,3 +140,8 @@ To maximize knowledge transfer and keep the user actively engaged without causin
 * **Dual-Artifact Workflow**: Semantic Markdown (`Ryan_Bartusek_Resume_2026vX.md`) paired with compiled single-page vector PDF (`.pdf`).
 * **Automated PDF Engine**: Built via headless Google Chrome using `python3 render_pdf.py`.
 * **Artifact Tracking**: Markdown sources and final `.pdf` files are tracked; `.chrome_profile/` and `resume_preview.html` are strictly gitignored.
+
+### F. Health, Diet & Nutrition (`food-diet-nutrition`)
+* **Evidence-Based Structure**: Organize around macro/micronutrient science, dietary protocols, high-yield recipes, and pantry sourcing.
+* **Biometric & Health Privacy**: Personal lab results, DEXA scans, and private medical markers MUST reside strictly in `private/` (gitignored).
+* **Recipe Standard**: All recipes include standardized ingredient specs, prep workflows, and estimated macronutrient breakdowns (Protein, Fat, Carbs, Calories).
